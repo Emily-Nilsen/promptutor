@@ -48,7 +48,7 @@ export function Hero() {
               priority
             />
             <div className="relative">
-              <p className="inline bg-gradient-to-r from-teal-200 via-teal-500 to-teal-200 bg-clip-text font-display text-5xl tracking-tight text-transparent">
+              <p className="inline bg-gradient-to-r from-teal-200 via-teal-500 to-teal-200 bg-clip-text font-display text-5xl font-bold tracking-tight text-transparent">
                 Never miss the cache again.
               </p>
               <p className="mt-3 text-2xl tracking-tight text-slate-400">
