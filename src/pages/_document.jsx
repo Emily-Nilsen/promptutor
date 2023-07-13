@@ -43,6 +43,10 @@ export default function Document() {
     <Html className="antialiased [font-feature-settings:'ss01']" lang="en">
       <Head>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
+        <link
+          rel="stylesheet"
+          href="https://use.typekit.net/hwk5jpr.css"
+        ></link>
       </Head>
       <body className="bg-white dark:bg-slate-900">
         <Main />

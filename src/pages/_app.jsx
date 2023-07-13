@@ -70,10 +70,6 @@ export default function App({ Component, pageProps }) {
           rel="icon"
           href="https://res.cloudinary.com/dt3k2apqd/image/upload/v1683608123/Promptutor/promptutor_favicon_xcvego.svg"
         />
-        <link
-          rel="stylesheet"
-          href="https://use.typekit.net/hwk5jpr.css"
-        ></link>
       </Head>
       <Layout title={title} tableOfContents={tableOfContents}>
         <Component {...pageProps} />

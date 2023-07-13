@@ -18,12 +18,12 @@ const icons = {
 }
 
 const iconStyles = {
-  blue: '[--icon-foreground:theme(colors.slate.900)] [--icon-background:theme(colors.white)]',
-  amber:
-    '[--icon-foreground:theme(colors.amber.900)] [--icon-background:theme(colors.amber.100)]',
+  teal: '[--icon-foreground:theme(colors.gray.900)] [--icon-background:theme(colors.white)]',
+  fuchsia:
+    '[--icon-foreground:theme(colors.fuchsia.900)] [--icon-background:theme(colors.fuchsia.100)]',
 }
 
-export function Icon({ color = 'blue', icon, className, ...props }) {
+export function Icon({ color = 'teal', icon, className, ...props }) {
   let id = useId()
   let IconComponent = icons[icon]
 
@@ -41,18 +41,18 @@ export function Icon({ color = 'blue', icon, className, ...props }) {
 }
 
 const gradients = {
-  blue: [
-    { stopColor: '#0EA5E9' },
-    { stopColor: '#22D3EE', offset: '.527' },
-    { stopColor: '#818CF8', offset: 1 },
+  teal: [
+    { stopColor: '#ccfbf1' },
+    { stopColor: '#99f6e4', offset: '.527' },
+    { stopColor: '#5eead4', offset: 1 },
   ],
-  amber: [
-    { stopColor: '#FDE68A', offset: '.08' },
-    { stopColor: '#F59E0B', offset: '.837' },
+  fuchsia: [
+    { stopColor: '#f5d0fe', offset: '.08' },
+    { stopColor: '#e879f9', offset: '.837' },
   ],
 }
 
-export function Gradient({ color = 'blue', ...props }) {
+export function Gradient({ color = 'teal', ...props }) {
   return (
     <radialGradient
       cx={0}

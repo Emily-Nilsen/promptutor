@@ -25,8 +25,8 @@ module.exports = {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
       },
       fontFamily: {
-        sans: ['Inter', ...defaultTheme.fontFamily.sans],
-        display: ['Lexend', ...defaultTheme.fontFamily.sans],
+        sans: ['Lato', ...defaultTheme.fontFamily.sans],
+        display: ['Lato', ...defaultTheme.fontFamily.sans],
       },
       maxWidth: {
         '8xl': '88rem',

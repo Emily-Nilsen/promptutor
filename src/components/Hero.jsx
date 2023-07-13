@@ -6,7 +6,7 @@ import Highlight, { defaultProps } from 'prism-react-renderer'
 import { Button } from '@/components/Button'
 import { HeroBackground } from '@/components/HeroBackground'
 import blurCyanImage from '@/images/blur-cyan.png'
-import blurindigoImage from '@/images/fuchsia-blur.webp'
+import blurfuchsiaImage from '@/images/fuchsia-blur.webp'
 
 const codeLanguage = 'javascript'
 const code = `export default {
@@ -78,8 +78,8 @@ export function Hero() {
                 priority
               />
               <Image
-                className="absolute -bottom-40 -right-44 opacity-20"
-                src={blurindigoImage}
+                className="absolute -bottom-40 -right-44 opacity-50"
+                src={blurfuchsiaImage}
                 alt=""
                 width={567}
                 height={567}

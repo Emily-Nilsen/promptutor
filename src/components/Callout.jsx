@@ -5,21 +5,21 @@ import { Icon } from '@/components/Icon'
 const styles = {
   note: {
     container:
-      'bg-sky-50 dark:bg-slate-800/60 dark:ring-1 dark:ring-slate-300/10',
-    title: 'text-sky-900 dark:text-sky-400',
-    body: 'text-sky-800 [--tw-prose-background:theme(colors.sky.50)] prose-a:text-sky-900 prose-code:text-sky-900 dark:text-slate-300 dark:prose-code:text-slate-300',
+      'bg-teal-50 dark:bg-gray-800/60 dark:ring-1 dark:ring-gray-300/10',
+    title: 'text-teal-900 dark:text-teal-400 font-medium',
+    body: 'text-teal-800 [--tw-prose-background:theme(colors.teal.50)] prose-a:text-teal-900 prose-code:text-teal-900 dark:text-gray-300 dark:prose-code:text-gray-300',
   },
   warning: {
     container:
-      'bg-amber-50 dark:bg-slate-800/60 dark:ring-1 dark:ring-slate-300/10',
-    title: 'text-amber-900 dark:text-amber-500',
-    body: 'text-amber-800 [--tw-prose-underline:theme(colors.amber.400)] [--tw-prose-background:theme(colors.amber.50)] prose-a:text-amber-900 prose-code:text-amber-900 dark:text-slate-300 dark:[--tw-prose-underline:theme(colors.sky.700)] dark:prose-code:text-slate-300',
+      'bg-fuchsia-50 dark:bg-gray-800/60 dark:ring-1 dark:ring-gray-300/10',
+    title: 'text-fuchsia-900 dark:text-fuchsia-500 font-medium',
+    body: 'text-fuchsia-800 [--tw-prose-underline:theme(colors.fuchsia.400)] [--tw-prose-background:theme(colors.fuchsia.50)] prose-a:text-fuchsia-900 prose-code:text-fuchsia-900 dark:text-gray-300 dark:[--tw-prose-underline:theme(colors.teal.700)] dark:prose-code:text-gray-300',
   },
 }
 
 const icons = {
   note: (props) => <Icon icon="lightbulb" {...props} />,
-  warning: (props) => <Icon icon="warning" color="amber" {...props} />,
+  warning: (props) => <Icon icon="warning" color="fuchsia" {...props} />,
 }
 
 export function Callout({ type = 'note', title, children }) {
