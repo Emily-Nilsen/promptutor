@@ -6,7 +6,7 @@ import Highlight, { defaultProps } from 'prism-react-renderer'
 import { Button } from '@/components/Button'
 import { HeroBackground } from '@/components/HeroBackground'
 import blurCyanImage from '@/images/blur-cyan.png'
-import blurfuchsiaImage from '@/images/fuchsia-blur.webp'
+import blurFuchsiaImage from '@/images/fuchsia-blur.webp'
 
 const codeLanguage = 'javascript'
 const code = `export default {
@@ -18,8 +18,8 @@ const code = `export default {
 }`
 
 const tabs = [
-  { name: 'cache-advance.config.js', isActive: true },
-  { name: 'package.json', isActive: false },
+  { name: 'prompt formula', isActive: true },
+  { name: 'prompt example', isActive: false },
 ]
 
 function TrafficLightsIcon(props) {
@@ -49,16 +49,17 @@ export function Hero() {
             />
             <div className="relative">
               <p className="inline bg-gradient-to-r from-teal-200 via-teal-500 to-teal-200 bg-clip-text font-display text-5xl font-bold tracking-tight text-transparent">
-                Never miss the cache again.
+                Unlock the potential of ChatGPT.
               </p>
-              <p className="mt-3 text-2xl tracking-tight text-slate-400">
-                Cache every single thing your app could ever do ahead of time,
-                so your code never even has to run at all.
+              <p className="mt-3 text-2xl tracking-tight text-gray-400">
+                Empower yourself with powerful prompts to harness the
+                capabilities of ChatGPT and other models to save time and
+                achieve more.
               </p>
               <div className="mt-8 flex gap-4 md:justify-center lg:justify-start">
-                <Button href="/">Get started</Button>
+                <Button href="/">Browse prompt categories</Button>
                 <Button href="/" variant="secondary">
-                  View on GitHub
+                  Learn with videos
                 </Button>
               </div>
             </div>
@@ -78,29 +79,90 @@ export function Hero() {
                 priority
               />
               <Image
-                className="absolute -bottom-40 -right-44 opacity-50"
-                src={blurfuchsiaImage}
+                className="absolute -bottom-40 -right-44"
+                src={blurFuchsiaImage}
                 alt=""
                 width={567}
                 height={567}
                 unoptimized
                 priority
               />
-
-              <div className="bg-t flex w-full items-center justify-center">
-                <div className="relative w-fit rounded-full bg-teal-500/70 ring-1 ring-white/10 backdrop-blur">
-                  <div className="relative z-10 flex items-center justify-center">
-                    <div className="absolute inset-0 -ml-4 -mt-4 h-52 w-52 rounded-full bg-gradient-radial from-teal-300/10 via-teal-600 to-teal-300/10 opacity-10 blur-lg" />
-                    <div className="absolute inset-0 -ml-6 -mt-6 h-60 w-60 rounded-full bg-gradient-radial from-teal-300/10 via-teal-600 to-teal-300/10 opacity-10 blur-lg" />
-                    <Image
-                      src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/Promptutor_ball_1500x1500_mxeqyy.webp"
-                      width={1500}
-                      height={1500}
-                      alt="Promptutor logo"
-                      className="z-10 h-44 w-44 object-cover"
-                    />
-                    <div className="absolute -top-px left-20 right-20 h-px animate-pulse bg-gradient-to-r from-teal-300/0 via-teal-300/50 to-teal-300/0 opacity-70" />
-                    <div className="absolute -bottom-px left-20 right-20 h-px animate-pulse bg-gradient-to-r from-teal-400/0 via-teal-400/50 to-teal-400/0 opacity-70" />
+              <div className="absolute inset-0 rounded-2xl bg-gradient-to-tr from-teal-300 via-teal-300/70 to-fuchsia-300 opacity-10 blur-lg" />
+              <div className="absolute inset-0 rounded-2xl bg-gradient-to-tr from-teal-300 via-teal-300/70 to-fuchsia-300 opacity-10" />
+              <div className="relative rounded-2xl bg-[#0A101F]/80 ring-1 ring-white/10 backdrop-blur">
+                <div className="absolute -top-px left-20 right-11 h-px bg-gradient-to-r from-teal-300/0 via-teal-300/70 to-teal-300/0" />
+                <div className="absolute -bottom-px left-11 right-20 h-px bg-gradient-to-r from-fuchsia-400/0 via-fuchsia-400 to-fuchsia-400/0" />
+                <div className="pl-4 pt-4">
+                  <TrafficLightsIcon className="h-2.5 w-auto stroke-gray-500/30" />
+                  <div className="mt-4 flex space-x-2 text-xs">
+                    {tabs.map((tab) => (
+                      <div
+                        key={tab.name}
+                        className={clsx(
+                          'flex h-6 rounded-full',
+                          tab.isActive
+                            ? 'bg-gradient-to-r from-teal-400/30 via-teal-400 to-teal-400/30 p-px font-medium text-teal-300'
+                            : 'text-gray-500'
+                        )}
+                      >
+                        <div
+                          className={clsx(
+                            'flex items-center rounded-full px-2.5',
+                            tab.isActive && 'bg-gray-800'
+                          )}
+                        >
+                          {tab.name}
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                  <div className="mt-6 flex items-start px-1 text-sm">
+                    <Highlight
+                      {...defaultProps}
+                      code={code}
+                      language={codeLanguage}
+                      theme={undefined}
+                    >
+                      {({
+                        className,
+                        style,
+                        tokens,
+                        getLineProps,
+                        getTokenProps,
+                      }) => (
+                        <pre
+                          className={clsx(
+                            className,
+                            'flex overflow-x-auto pb-6'
+                          )}
+                          style={style}
+                        >
+                          <code className="px-4 font-display">
+                            {tokens.map((line, lineIndex) => (
+                              <div key={lineIndex} {...getLineProps({ line })}>
+                                {line.map((token, tokenIndex) => (
+                                  <span
+                                    key={tokenIndex}
+                                    {...getTokenProps({ token })}
+                                  />
+                                ))}
+                              </div>
+                            ))}
+                          </code>
+                        </pre>
+                      )}
+                    </Highlight>
+                    <div className="absolute inset-0">
+                      <div className="relative flex h-full w-full items-end justify-end p-4">
+                        <Image
+                          src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/Promptutor_ball_1500x1500_mxeqyy.webp"
+                          width={1500}
+                          height={1500}
+                          alt="Promptutor logo"
+                          className="z-10 h-32 w-32 object-cover"
+                        />
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>

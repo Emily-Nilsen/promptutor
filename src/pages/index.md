@@ -1,7 +1,7 @@
 ---
 title: Getting started
-pageTitle: Promptutor - Something here.
-description: Some description here.
+pageTitle: Maximise Productivity with Promptutor's AI Prompt Examples
+description: Save time and enhance worklflow with effective prompt examples for ChatGPT and other models.
 ---
 
 Learn how to get CacheAdvance set up in your project in under thirty minutes or it's freeze. {% .lead %}

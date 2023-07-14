@@ -114,7 +114,10 @@ function Header({ navigation }) {
       <div className="relative flex basis-0 justify-end gap-6 sm:gap-8 md:flex-grow">
         <ThemeSelector className="relative z-10" />
         <Link href="https://github.com" className="group" aria-label="GitHub">
-          <GitHubIcon className="h-6 w-6 fill-gray-400 group-hover:fill-gray-500 dark:group-hover:fill-gray-300" />
+          <p className="hidden text-sm font-semibold leading-6 text-gray-500 transition-all duration-150 ease-in-out hover:text-gray-950 lg:block">
+            Log in <span aria-hidden="true">&rarr;</span>
+          </p>
+          <GitHubIcon className="h-6 w-6 fill-slate-400 group-hover:fill-slate-500 dark:group-hover:fill-slate-300 lg:hidden" />
         </Link>
       </div>
     </header>
