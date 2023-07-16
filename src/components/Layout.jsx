@@ -15,12 +15,15 @@ export const navigation = [
   {
     title: 'Introduction',
     links: [
-      { title: 'Getting started', href: '/' },
-      { title: 'Installation', href: '/docs/installation' },
+      { title: 'Welcome to Promptutor', href: '/' },
+      { title: 'Setup ChatGPT account', href: '/docs/installation' },
+      { title: 'Prompt categories', href: '/docs/installation' },
+      { title: 'Learn with videos', href: '/docs/installation' },
+      { title: 'External resources', href: '/docs/installation' },
     ],
   },
   {
-    title: 'Core concepts',
+    title: 'Professional',
     links: [
       { title: 'Understanding caching', href: '/docs/understanding-caching' },
       {
@@ -36,7 +39,7 @@ export const navigation = [
     ],
   },
   {
-    title: 'Advanced guides',
+    title: 'Learning & Education',
     links: [
       { title: 'Writing plugins', href: '/docs/writing-plugins' },
       { title: 'Neuralink integration', href: '/docs/neuralink-integration' },
@@ -50,7 +53,7 @@ export const navigation = [
     ],
   },
   {
-    title: 'API reference',
+    title: 'Health & Wellbeing',
     links: [
       { title: 'CacheAdvance.predict()', href: '/docs/cacheadvance-predict' },
       { title: 'CacheAdvance.flush()', href: '/docs/cacheadvance-flush' },
@@ -59,7 +62,23 @@ export const navigation = [
     ],
   },
   {
-    title: 'Contributing',
+    title: 'Entertainment',
+    links: [
+      { title: 'How to contribute', href: '/docs/how-to-contribute' },
+      { title: 'Architecture guide', href: '/docs/architecture-guide' },
+      { title: 'Design principles', href: '/docs/design-principles' },
+    ],
+  },
+  {
+    title: 'Social Media',
+    links: [
+      { title: 'How to contribute', href: '/docs/how-to-contribute' },
+      { title: 'Architecture guide', href: '/docs/architecture-guide' },
+      { title: 'Design principles', href: '/docs/design-principles' },
+    ],
+  },
+  {
+    title: 'Lifestyle',
     links: [
       { title: 'How to contribute', href: '/docs/how-to-contribute' },
       { title: 'Architecture guide', href: '/docs/architecture-guide' },

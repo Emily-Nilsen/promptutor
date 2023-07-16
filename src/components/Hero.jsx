@@ -9,17 +9,17 @@ import blurCyanImage from '@/images/blur-cyan.png'
 import blurFuchsiaImage from '@/images/fuchsia-blur.webp'
 
 const codeLanguage = 'javascript'
-const code = `export default {
-  strategy: 'predictive',
-  engine: {
-    cpus: 12,
-    backups: ['./storage/cache.wtf'],
-  },
-}`
+const title = 'Guide to Changing a Flat Tyre'
+const code = ` 
+  Can you provide step-by-step instructions on how to 
+  change a flat tyre, considering I’ve never done 
+  it before, and I’m on a busy highway?
+  
+`
 
 const tabs = [
-  { name: 'prompt formula', isActive: true },
-  { name: 'prompt example', isActive: false },
+  { name: 'prompt example', isActive: true },
+  { name: 'prompt formula', isActive: false },
 ]
 
 function TrafficLightsIcon(props) {
@@ -116,7 +116,12 @@ export function Hero() {
                       </div>
                     ))}
                   </div>
-                  <div className="mt-6 flex items-start px-1 text-sm">
+                  <div>
+                    <p className="mt-6 pl-5 text-sm text-fuchsia-400">
+                      {title}
+                    </p>
+                  </div>
+                  <div className="mt-0 flex items-start px-1 text-sm">
                     <Highlight
                       {...defaultProps}
                       code={code}
@@ -137,7 +142,7 @@ export function Hero() {
                           )}
                           style={style}
                         >
-                          <code className="px-4 font-display">
+                          <code className="px-4 font-display text-teal-200">
                             {tokens.map((line, lineIndex) => (
                               <div key={lineIndex} {...getLineProps({ line })}>
                                 {line.map((token, tokenIndex) => (

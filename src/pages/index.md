@@ -1,5 +1,5 @@
 ---
-title: Getting started
+title: Welcome to Promptutor
 pageTitle: Maximise Productivity with Promptutor's AI Prompt Examples
 description: Save time and enhance worklflow with effective prompt examples for ChatGPT and other models.
 ---
@@ -8,13 +8,13 @@ Learn how to get CacheAdvance set up in your project in under thirty minutes or 
 
 {% quick-links %}
 
-{% quick-link title="Installation" icon="installation" href="/" description="Step-by-step guides to setting up your system and installing the library." /%}
+{% quick-link title="Setup ChatGPT account" icon="installation" href="/" description="Step-by-step guides to setting up your system and installing the library." /%}
 
-{% quick-link title="Architecture guide" icon="presets" href="/" description="Learn how the internals work and contribute." /%}
+{% quick-link title="Prompt categories" icon="theming" href="/" description="Extend the library with third-party plugins or write your own." /%}
 
-{% quick-link title="Plugins" icon="plugins" href="/" description="Extend the library with third-party plugins or write your own." /%}
+{% quick-link title="Videos" icon="presets" href="/" description="Learn how the internals work and contribute." /%}
 
-{% quick-link title="API reference" icon="theming" href="/" description="Learn to easily customize and modify your app's visual design to fit your brand." /%}
+{% quick-link title="External resources" icon="presets" href="/" description="Learn to easily customize and modify your app's visual design to fit your brand." /%}
 
 {% /quick-links %}
 
