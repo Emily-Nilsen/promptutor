@@ -4,17 +4,17 @@ pageTitle: Maximise Productivity with Promptutor's AI Prompt Examples
 description: Save time and enhance worklflow with effective prompt examples for ChatGPT and other models.
 ---
 
-Learn how to get CacheAdvance set up in your project in under thirty minutes or it's freeze. {% .lead %}
+Discover the ultimate resource to unlock the full potential of AI language models and boost your productivity. {% .lead %}
 
 {% quick-links %}
 
-{% quick-link title="Setup ChatGPT account" icon="installation" href="/" description="Step-by-step guides to setting up your system and installing the library." /%}
+{% quick-link title="Setup ChatGPT" icon="installation" href="/" description="Step-by-step guide to creating your ChatGPT account." /%}
 
-{% quick-link title="Prompt categories" icon="theming" href="/" description="Extend the library with third-party plugins or write your own." /%}
+{% quick-link title="Prompt categories" icon="theming" href="/" description="Explore a wide range of prompt categories, formulas and examples." /%}
 
-{% quick-link title="Videos" icon="presets" href="/" description="Learn how the internals work and contribute." /%}
+{% quick-link title="Videos" icon="video" href="/" description="Watch short, practical videos showcasing popular prompt formulas and examples." /%}
 
-{% quick-link title="External resources" icon="presets" href="/" description="Learn to easily customize and modify your app's visual design to fit your brand." /%}
+{% quick-link title="External resources" icon="presets" href="/" description="Discover additional helpful resources to further your understanding." /%}
 
 {% /quick-links %}
 
