@@ -1,6 +1,6 @@
 import clsx from 'clsx'
-
 import { Icon } from '@/components/Icon'
+import { useState } from 'react'
 
 const styles = {
   note: {
@@ -23,7 +23,37 @@ const icons = {
 }
 
 export function Callout({ type = 'note', title, children }) {
+  const [copied, setCopied] = useState(false)
+
   let IconComponent = icons[type]
+
+  const handleCopyClick = () => {
+    // Function to extract text content from React elements recursively
+    const extractTextContent = (element) => {
+      if (typeof element === 'string') {
+        return element
+      } else if (Array.isArray(element)) {
+        return element.map(extractTextContent).join('')
+      } else if (element && element.props && element.props.children) {
+        return extractTextContent(element.props.children)
+      }
+      return ''
+    }
+
+    // Extract text content from children
+    const textContent = extractTextContent(children)
+
+    // Copy the text content to clipboard
+    const el = document.createElement('textarea')
+    el.value = textContent
+    document.body.appendChild(el)
+    el.select()
+    document.execCommand('copy')
+    document.body.removeChild(el)
+
+    setCopied(true)
+    setTimeout(() => setCopied(false), 2000)
+  }
 
   return (
     <div className={clsx('my-8 flex rounded-3xl p-6', styles[type].container)}>
@@ -35,6 +65,12 @@ export function Callout({ type = 'note', title, children }) {
         <div className={clsx('prose mt-2.5', styles[type].body)}>
           {children}
         </div>
+        <button
+          onClick={handleCopyClick}
+          className="mt-4 rounded-md bg-teal-500 px-4 py-2 text-white transition hover:bg-teal-600"
+        >
+          {copied ? 'Copied!' : 'Copy prompt'}
+        </button>
       </div>
     </div>
   )

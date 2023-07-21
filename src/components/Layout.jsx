@@ -17,15 +17,15 @@ export const navigation = [
     links: [
       { title: 'Welcome to Promptutor', href: '/' },
       { title: 'Setup ChatGPT', href: '/docs/installation' },
-      { title: 'Prompt categories', href: '/docs/installation' },
-      { title: 'Learn with videos', href: '/docs/installation' },
-      { title: 'External resources', href: '/docs/installation' },
+      { title: 'Prompt categories', href: '/docs/prompt-categories' },
+      { title: 'Learn with videos', href: '/docs/learn-with-videos' },
+      { title: 'External resources', href: '/docs/external-resources' },
     ],
   },
   {
     title: 'Professional',
     links: [
-      { title: 'Understanding caching', href: '/docs/understanding-caching' },
+      { title: 'Legal', href: '/docs/legal' },
       {
         title: 'Predicting user behavior',
         href: '/docs/predicting-user-behavior',

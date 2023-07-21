@@ -24,6 +24,7 @@ export function VideoIcon({ id, color }) {
           strokeWidth={2}
           strokeLinecap="round"
           strokeLinejoin="round"
+          strokeMiterLimit="40"
         />
       </LightMode>
       <DarkMode>
@@ -34,6 +35,7 @@ export function VideoIcon({ id, color }) {
           strokeWidth={2}
           strokeLinecap="round"
           strokeLinejoin="round"
+          strokeMiterLimit="40"
         />
       </DarkMode>
     </>
