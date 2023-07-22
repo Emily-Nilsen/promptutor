@@ -1,5 +1,6 @@
 import { Callout } from '@/components/Callout'
 import { QuickLink, QuickLinks } from '@/components/QuickLinks'
+import { Video, Videos } from '@/components/Videos'
 
 const tags = {
   callout: {
@@ -39,6 +40,18 @@ const tags = {
       title: { type: String },
       description: { type: String },
       icon: { type: String },
+      href: { type: String },
+    },
+  },
+  videos: {
+    render: Videos,
+  },
+  video: {
+    selfClosing: true,
+    render: Video,
+    attributes: {
+      title: { type: String },
+      description: { type: String },
       href: { type: String },
     },
   },
