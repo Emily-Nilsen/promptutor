@@ -57,8 +57,10 @@ export function Hero() {
                 achieve more.
               </p>
               <div className="mt-8 flex gap-4 md:justify-center lg:justify-start">
-                <Button href="/">Browse prompt categories</Button>
-                <Button href="/" variant="secondary">
+                <Button href="/docs/prompt-categories">
+                  Browse prompt categories
+                </Button>
+                <Button href="/docs/learn-with-videos" variant="secondary">
                   Learn with videos
                 </Button>
               </div>
@@ -158,13 +160,13 @@ export function Hero() {
                       )}
                     </Highlight>
                     <div className="absolute inset-0">
-                      <div className="relative flex h-full w-full items-end justify-end p-4">
+                      <div className="relative flex h-full w-full items-end justify-end p-3 sm:p-4">
                         <Image
                           src="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/Promptutor_ball_1500x1500_mxeqyy.webp"
                           width={1500}
                           height={1500}
                           alt="Promptutor logo"
-                          className="z-10 h-32 w-32 object-cover"
+                          className="z-10 h-20 w-20 object-cover sm:h-32 sm:w-32"
                         />
                       </div>
                     </div>

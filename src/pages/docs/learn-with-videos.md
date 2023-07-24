@@ -11,23 +11,13 @@ Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo ex
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Welcome to Promptutor
+### Getting started
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-{% videos %}
-
-{% video title="Mastering the Art of Prompts" href="https://youtu.be/qMy_bel60eE" description="Unlock the magic of prompts using AI learning models." /%}
-
-{% /videos %}
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Setting up your ChatGPT account
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
 
 {% videos %}
+
+{% video title="Welcome to Promptutor" href="https://youtu.be/qMy_bel60eE" description="Unlock the magic of prompts using AI learning models." /%}
 
 {% video title="Getting Started with ChatGPT" href="https://youtu.be/dy8rVZDn7PE" description="How to set up your ChatGPT account for the first time." /%}
 
@@ -41,7 +31,7 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut par
 
 ### Cooking
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
 
 {% videos %}
 
@@ -53,9 +43,7 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut par
 
 ### Id vitae minima
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
 
 ---
 
@@ -65,7 +53,7 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut par
 
 ### Jokes
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
 
 {% videos %}
 
@@ -75,9 +63,7 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut par
 
 ### Reprehenderit magni
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
 
 ## Lifestyle
 

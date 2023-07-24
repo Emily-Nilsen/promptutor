@@ -1,6 +1,7 @@
 import { Callout } from '@/components/Callout'
 import { QuickLink, QuickLinks } from '@/components/QuickLinks'
 import { Video, Videos } from '@/components/Videos'
+import { Category, Categories } from '@/components/Categories'
 
 const tags = {
   callout: {
@@ -40,6 +41,18 @@ const tags = {
       title: { type: String },
       description: { type: String },
       icon: { type: String },
+      href: { type: String },
+    },
+  },
+  categories: {
+    render: Categories,
+  },
+  category: {
+    selfClosing: true,
+    render: Category,
+    attributes: {
+      title: { type: String },
+      imageUrl: { type: String },
       href: { type: String },
     },
   },
