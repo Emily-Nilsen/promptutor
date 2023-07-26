@@ -18,10 +18,12 @@ export function Video({ title, description, href }) {
         <YoutubeVideo publicId={href} />
       </div>
       <div className="flex h-full w-full flex-col justify-end">
-        <h3 className="mt-1 text-base font-semibold leading-8 tracking-tight text-gray-900 sm:mt-2">
+        <h3 className="mt-1 text-base font-semibold leading-8 tracking-tight text-gray-900 dark:text-white sm:mt-2">
           {title}
         </h3>
-        <p className="text-sm leading-7 text-gray-600">{description}</p>
+        <p className="text-sm leading-7 text-gray-600 dark:text-gray-400">
+          {description}
+        </p>
       </div>
     </div>
   )

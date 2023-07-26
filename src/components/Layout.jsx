@@ -16,7 +16,7 @@ export const navigation = [
     title: 'Introduction',
     links: [
       { title: 'Welcome to Promptutor', href: '/' },
-      { title: 'Setup ChatGPT', href: '/docs/installation' },
+      { title: 'Getting started', href: '/docs/getting-started' },
       { title: 'Prompt categories', href: '/docs/prompt-categories' },
       { title: 'Learn with videos', href: '/docs/learn-with-videos' },
       { title: 'External resources', href: '/docs/external-resources' },
@@ -140,12 +140,12 @@ function Header({ navigation }) {
       </div>
       <div className="relative flex basis-0 justify-end gap-6 sm:gap-8 md:flex-grow">
         <ThemeSelector className="relative z-10" />
-        <Link href="/" className="group" aria-label="GitHub">
+        {/* <Link href="/" className="group" aria-label="GitHub">
           <p className="hidden text-sm font-semibold leading-6 text-gray-500 transition-all duration-150 ease-in-out hover:text-gray-950 lg:block">
             Login <span aria-hidden="true">&rarr;</span>
           </p>
-          <LoginIcon className="h-6 w-6 fill-slate-400 group-hover:fill-slate-500 dark:group-hover:fill-slate-300 lg:hidden" />
-        </Link>
+          <LoginIcon className="w-6 h-6 fill-slate-400 group-hover:fill-slate-500 dark:group-hover:fill-slate-300 lg:hidden" />
+        </Link> */}
       </div>
     </header>
   )

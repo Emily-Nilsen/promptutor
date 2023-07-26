@@ -21,15 +21,15 @@ Given that [event], what legal action could I take?
 
 Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
 
-{% callout title="Prompt Example 1: Neighbour's Tree Encroachment" %}
+{% callout title="Example 1: Neighbour's Tree Encroachment" %}
 Given that my neighbour's tree branches constantly encroach on my property, what legal action could I take?
 {% /callout %}
 
-{% callout title="Prompt Example 2: Faulty Product Injury" %}
+{% callout title="Example 2: Faulty Product Injury" %}
 Given that I purchased a faulty product that caused injury, what legal action could I take against the manufacturer?
 {% /callout %}
 
-{% callout title="Prompt Example 3: Tenant Rights Enforcement" %}
+{% callout title="Example 3: Tenant Rights Enforcement" %}
 Given that my landlord consistently fails to address serious maintenance issues in my rental unit, what legal action could I take to enforce my tenant rights?
 {% /callout %}
 

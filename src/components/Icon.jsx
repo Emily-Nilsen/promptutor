@@ -8,6 +8,8 @@ import { PresetsIcon } from '@/components/icons/PresetsIcon'
 import { ThemingIcon } from '@/components/icons/ThemingIcon'
 import { WarningIcon } from '@/components/icons/WarningIcon'
 import { VideoIcon } from '@/components/icons/VideoIcon'
+import { TvIcon } from '@/components/icons/TvIcon'
+import { FormulaIcon } from '@/components/icons/FormulaIcon'
 
 const icons = {
   installation: InstallationIcon,
@@ -17,12 +19,14 @@ const icons = {
   lightbulb: LightbulbIcon,
   warning: WarningIcon,
   video: VideoIcon,
+  tv: TvIcon,
+  formula: FormulaIcon,
 }
 
 const iconStyles = {
   teal: '[--icon-foreground:theme(colors.gray.900)] [--icon-background:theme(colors.white)]',
   fuchsia:
-    '[--icon-foreground:theme(colors.fuchsia.900)] [--icon-background:theme(colors.fuchsia.100)]',
+    '[--icon-foreground:theme(colors.gray.900)] [--icon-background:theme(colors.fuchsia.100)]',
 }
 
 export function Icon({ color = 'teal', icon, className, ...props }) {

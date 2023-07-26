@@ -17,9 +17,24 @@ const styles = {
   },
 }
 
+function CopyIcon(props) {
+  return (
+    <svg aria-hidden="true" viewBox="0 0 16 16" {...props}>
+      <path
+        fillRule="evenodd"
+        clipRule="evenodd"
+        d="M12.22,10.86h-4.4c-0.81,0-1.47-0.66-1.47-1.47V3.52c0-0.81,0.66-1.47,1.47-1.47h3.21c0.29,0,0.57,0.12,0.78,0.32
+        l1.56,1.56c0.21,0.21,0.32,0.49,0.32,0.78v4.68C13.68,10.2,13.03,10.86,12.22,10.86z M3.41,4.99h2.2v1.1h-2.2
+        c-0.2,0-0.37,0.17-0.37,0.37v5.87c0,0.2,0.17,0.37,0.37,0.37h4.4c0.2,0,0.37-0.17,0.37-0.37V11.6h1.1v0.73
+        c0,0.81-0.66,1.47-1.47,1.47h-4.4c-0.81,0-1.47-0.66-1.47-1.47V6.46C1.94,5.65,2.6,4.99,3.41,4.99z"
+      />
+    </svg>
+  )
+}
+
 const icons = {
   note: (props) => <Icon icon="lightbulb" {...props} />,
-  warning: (props) => <Icon icon="warning" color="fuchsia" {...props} />,
+  warning: (props) => <Icon icon="formula" color="fuchsia" {...props} />,
 }
 
 export function Callout({ type = 'note', title, children }) {
@@ -59,18 +74,30 @@ export function Callout({ type = 'note', title, children }) {
     <div className={clsx('my-8 flex rounded-3xl p-6', styles[type].container)}>
       <IconComponent className="h-8 w-8 flex-none" />
       <div className="ml-4 flex-auto">
-        <p className={clsx('m-0 font-display text-xl', styles[type].title)}>
-          {title}
-        </p>
+        <div className="flex justify-between">
+          <p className={clsx('m-0 font-display text-xl', styles[type].title)}>
+            {title}
+          </p>
+          <button
+            onClick={handleCopyClick}
+            className="dark:bg-t flex items-center justify-center rounded-lg bg-white/50 px-2 text-sm text-gray-500 shadow-md shadow-black/5 ring-1 ring-black/5 transition duration-150 ease-in-out hover:bg-white/80 dark:bg-gray-700 dark:text-gray-300 dark:ring-inset dark:ring-white/5 dark:hover:bg-white/10"
+          >
+            {copied ? (
+              <span className="flex items-center gap-1 text-teal-500 dark:text-teal-300">
+                <CopyIcon className="h-4 w-4 fill-teal-400 dark:fill-teal-300" />
+                Copied!
+              </span>
+            ) : (
+              <span className="flex items-center gap-1">
+                <CopyIcon className="h-4 w-4 fill-gray-400 dark:fill-gray-300" />
+                Copy prompt
+              </span>
+            )}
+          </button>
+        </div>
         <div className={clsx('prose mt-2.5', styles[type].body)}>
           {children}
         </div>
-        <button
-          onClick={handleCopyClick}
-          className="mt-4 rounded-md bg-teal-500 px-4 py-2 text-white transition hover:bg-teal-600"
-        >
-          {copied ? 'Copied!' : 'Copy prompt'}
-        </button>
       </div>
     </div>
   )

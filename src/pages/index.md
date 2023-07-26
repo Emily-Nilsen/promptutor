@@ -8,11 +8,11 @@ Discover the ultimate resource to unlock the full potential of AI language model
 
 {% quick-links %}
 
-{% quick-link title="Setup ChatGPT" icon="installation" href="/" description="Step-by-step guide to creating your ChatGPT account." /%}
+{% quick-link title="AI model setups" icon="installation" href="/" description="Step-by-step guides to creating various AI model accounts." /%}
 
 {% quick-link title="Prompt categories" icon="theming" href="/" description="Explore a wide range of prompt categories, formulas and examples." /%}
 
-{% quick-link title="Videos" icon="video" href="/docs/learn-with-videos" description="Watch short, practical videos showcasing popular prompt formulas and examples." /%}
+{% quick-link title="Videos" icon="tv" href="/docs/learn-with-videos" description="Watch short, practical videos showcasing popular prompt formulas and examples." /%}
 
 {% quick-link title="External resources" icon="presets" href="/" description="Discover additional helpful resources to further your understanding." /%}
 
@@ -32,8 +32,8 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut par
 
 Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
 
-{% callout type="warning" title="Oh no! Something bad happened!" %}
-This is what a disclaimer message looks like. You might want to include inline `code` in it. Or maybe you’ll want to include a [link](/) in it. I don’t think we should get too carried away with other scenarios like lists or tables — that would be silly.
+{% callout type="warning" title="Prompt formulas" %}
+This is where you'll find the specific prompt formula.
 {% /callout %}
 
 ### Configuring the library
@@ -42,8 +42,8 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut par
 
 Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
 
-{% callout title="You should know!" %}
-This is what a disclaimer message looks like. You might want to include inline `code` in it. Or maybe you’ll want to include a [link](/) in it. I don’t think we should get too carried away with other scenarios like lists or tables — that would be silly.
+{% callout title="Prompt examples" %}
+This is where you'll find example prompts using the prompt formula.
 {% /callout %}
 
 ---

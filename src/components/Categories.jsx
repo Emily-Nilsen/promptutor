@@ -24,7 +24,7 @@ export function Category({ title, href, imageUrl }) {
           className="object-cover"
         />
       </div>
-      <div className="absolute inset-0 overflow-hidden rounded-xl bg-gradient-to-br from-zinc-950/80 from-10% via-zinc-950/40 via-30%" />
+      {/* <div className="absolute inset-0 overflow-hidden rounded-xl bg-gradient-to-br from-zinc-950/80 from-10% via-zinc-950/40 via-30%" /> */}
       <div className="absolute inset-0 flex items-start p-6">
         <h2 className="font-display text-base font-medium text-white dark:text-white">
           <Link href={href}>
