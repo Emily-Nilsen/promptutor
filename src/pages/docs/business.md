@@ -1,5 +1,5 @@
 ---
-title: Basics of time-travel
+title: Business
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 
@@ -7,7 +7,7 @@ Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo ex
 
 ---
 
-## Quis vel iste dicta
+## Business
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
@@ -15,18 +15,23 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut par
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
 
-```js
-/** @type {import('@tailwindlabs/lorem').ipsum} */
-export default {
-  lorem: 'ipsum',
-  dolor: ['sit', 'amet', 'consectetur'],
-  adipiscing: {
-    elit: true,
-  },
-}
-```
+{% callout type="warning" title="Prompt formula" %}
+Given that [event], what legal action could I take?
+{% /callout %}
 
 Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+
+{% callout title="Example 1: Neighbour's Tree Encroachment" %}
+Given that my neighbour's tree branches constantly encroach on my property, what legal action could I take?
+{% /callout %}
+
+{% callout title="Example 2: Faulty Product Injury" %}
+Given that I purchased a faulty product that caused injury, what legal action could I take against the manufacturer?
+{% /callout %}
+
+{% callout title="Example 3: Tenant Rights Enforcement" %}
+Given that my landlord consistently fails to address serious maintenance issues in my rental unit, what legal action could I take to enforce my tenant rights?
+{% /callout %}
 
 ### Natus aspernatur iste
 

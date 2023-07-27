@@ -63,7 +63,7 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
 
 {% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/typewriter_ox0r0w.webp" title="Pick-Up Lines" href="/docs/legal" /%}
 
-{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/tv_oc9pth.webp" title="TV/Movies" href="/docs/legal" /%}
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/tv_zqa2ue.webp" title="TV/Movies" href="/docs/legal" /%}
 
 {% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/typewriter_ox0r0w.webp" title="Social Media" href="/docs/legal" /%}
 
@@ -79,7 +79,7 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
 
 {% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/typewriter_ox0r0w.webp" title="Diet" href="/docs/legal" /%}
 
-{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/exercise_bike_os7coc.webp" title="Sports and Fitness" href="/docs/legal" /%}
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/exercise_bike_h0peyi.webp" title="Sports & Fitness" href="/docs/legal" /%}
 
 {% /categories %}
 
@@ -89,15 +89,15 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
 
 {% categories %}
 
-{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/typewriter_ox0r0w.webp" title="Fashion and Beauty" href="/docs/legal" /%}
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/typewriter_ox0r0w.webp" title="Fashion & Beauty" href="/docs/legal" /%}
 
-{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/exercise_bike_os7coc.webp" title="Hobbies" href="/docs/legal" /%}
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/exercise_bike_h0peyi.webp" title="Hobbies" href="/docs/legal" /%}
 
 {% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/typewriter_ox0r0w.webp" title="Mental Health & Psychology" href="/docs/legal" /%}
 
-{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/exercise_bike_os7coc.webp" title="Sustainability & Environment" href="/docs/legal" /%}
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/exercise_bike_h0peyi.webp" title="Sustainability & Environment" href="/docs/legal" /%}
 
-{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/exercise_bike_os7coc.webp" title="Spirituality & Mindfulness" href="/docs/legal" /%}
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/exercise_bike_h0peyi.webp" title="Spirituality & Mindfulness" href="/docs/legal" /%}
 
 {% /categories %}
 
@@ -129,10 +129,10 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
 
 {% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/typewriter_ox0r0w.webp" title="Culture" href="/docs/legal" /%}
 
-{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/exercise_bike_os7coc.webp" title="Parenting & Family" href="/docs/legal" /%}
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/exercise_bike_h0peyi.webp" title="Parenting & Family" href="/docs/legal" /%}
 
 {% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/typewriter_ox0r0w.webp" title="Relationships" href="/docs/legal" /%}
 
-{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/exercise_bike_os7coc.webp" title="Travel & Places" href="/docs/legal" /%}
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/exercise_bike_h0peyi.webp" title="Travel & Places" href="/docs/legal" /%}
 
 {% /categories %}

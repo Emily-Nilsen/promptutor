@@ -25,66 +25,68 @@ export const navigation = [
   {
     title: 'Professional',
     links: [
+      {
+        title: 'Business',
+        href: '/docs/business',
+      },
+      { title: 'E-mails', href: '/docs/e-mails' },
+      {
+        title: 'Interviews',
+        href: '/docs/interviews',
+      },
       { title: 'Legal', href: '/docs/legal' },
-      {
-        title: 'Predicting user behavior',
-        href: '/docs/predicting-user-behavior',
-      },
-      { title: 'Basics of time-travel', href: '/docs/basics-of-time-travel' },
-      {
-        title: 'Introduction to string theory',
-        href: '/docs/introduction-to-string-theory',
-      },
-      { title: 'The butterfly effect', href: '/docs/the-butterfly-effect' },
+      { title: 'Marketing', href: '/docs/marketing' },
+
+      // { title: 'Legal', href: '/docs/legal' },
     ],
   },
-  {
-    title: 'Learning & Education',
-    links: [
-      { title: 'Writing plugins', href: '/docs/writing-plugins' },
-      { title: 'Neuralink integration', href: '/docs/neuralink-integration' },
-      { title: 'Temporal paradoxes', href: '/docs/temporal-paradoxes' },
-      { title: 'Testing', href: '/docs/testing' },
-      { title: 'Compile-time caching', href: '/docs/compile-time-caching' },
-      {
-        title: 'Predictive data generation',
-        href: '/docs/predictive-data-generation',
-      },
-    ],
-  },
-  {
-    title: 'Health & Wellbeing',
-    links: [
-      { title: 'CacheAdvance.predict()', href: '/docs/cacheadvance-predict' },
-      { title: 'CacheAdvance.flush()', href: '/docs/cacheadvance-flush' },
-      { title: 'CacheAdvance.revert()', href: '/docs/cacheadvance-revert' },
-      { title: 'CacheAdvance.regret()', href: '/docs/cacheadvance-regret' },
-    ],
-  },
-  {
-    title: 'Entertainment',
-    links: [
-      { title: 'How to contribute', href: '/docs/how-to-contribute' },
-      { title: 'Architecture guide', href: '/docs/architecture-guide' },
-      { title: 'Design principles', href: '/docs/design-principles' },
-    ],
-  },
-  {
-    title: 'Social Media',
-    links: [
-      { title: 'How to contribute', href: '/docs/how-to-contribute' },
-      { title: 'Architecture guide', href: '/docs/architecture-guide' },
-      { title: 'Design principles', href: '/docs/design-principles' },
-    ],
-  },
-  {
-    title: 'Lifestyle',
-    links: [
-      { title: 'How to contribute', href: '/docs/how-to-contribute' },
-      { title: 'Architecture guide', href: '/docs/architecture-guide' },
-      { title: 'Design principles', href: '/docs/design-principles' },
-    ],
-  },
+  // {
+  //   title: 'Learning & Education',
+  //   links: [
+  //     { title: 'Writing plugins', href: '/docs/writing-plugins' },
+  //     { title: 'Neuralink integration', href: '/docs/neuralink-integration' },
+  //     { title: 'Temporal paradoxes', href: '/docs/temporal-paradoxes' },
+  //     { title: 'Testing', href: '/docs/testing' },
+  //     { title: 'Compile-time caching', href: '/docs/compile-time-caching' },
+  //     {
+  //       title: 'Predictive data generation',
+  //       href: '/docs/predictive-data-generation',
+  //     },
+  //   ],
+  // },
+  // {
+  //   title: 'Health & Wellbeing',
+  //   links: [
+  //     { title: 'CacheAdvance.predict()', href: '/docs/cacheadvance-predict' },
+  //     { title: 'CacheAdvance.flush()', href: '/docs/cacheadvance-flush' },
+  //     { title: 'CacheAdvance.revert()', href: '/docs/cacheadvance-revert' },
+  //     { title: 'CacheAdvance.regret()', href: '/docs/cacheadvance-regret' },
+  //   ],
+  // },
+  // {
+  //   title: 'Entertainment',
+  //   links: [
+  //     { title: 'How to contribute', href: '/docs/how-to-contribute' },
+  //     { title: 'Architecture guide', href: '/docs/architecture-guide' },
+  //     { title: 'Design principles', href: '/docs/design-principles' },
+  //   ],
+  // },
+  // {
+  //   title: 'Social Media',
+  //   links: [
+  //     { title: 'How to contribute', href: '/docs/how-to-contribute' },
+  //     { title: 'Architecture guide', href: '/docs/architecture-guide' },
+  //     { title: 'Design principles', href: '/docs/design-principles' },
+  //   ],
+  // },
+  // {
+  //   title: 'Lifestyle',
+  //   links: [
+  //     { title: 'How to contribute', href: '/docs/how-to-contribute' },
+  //     { title: 'Architecture guide', href: '/docs/architecture-guide' },
+  //     { title: 'Design principles', href: '/docs/design-principles' },
+  //   ],
+  // },
 ]
 
 function GitHubIcon(props) {
