@@ -9,10 +9,6 @@ Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo ex
 
 ## Introduction
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
-
-### Getting started
-
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
 
 {% videos %}
@@ -25,25 +21,19 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
 
 ---
 
-## Health & Wellbeing
+## Arts and Literature
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Cooking
+### Creative Writing
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
 
 {% videos %}
 
-{% video title="How to Design Your Perfect Meal Plan" href="https://youtu.be/sub5HSbHmqM" description="Learn how to design customised meal plans tailored to your needs." /%}
-
-{% video title="How to Make a Recipe from What You Have" href="https://youtu.be/MwSHDo-RUAs" description="Use what you have in your fridge and pantry and say goodbye to food waste." /%}
+{% video title="How to Create Characters" href="https://youtu.be/EQe6hNJ6_GI" description="Learn how to use AI to develop ideas for your fictional characters." /%}
 
 {% /videos %}
-
-### Id vitae minima
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
 
 ---
 
@@ -61,15 +51,25 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
 
 {% /videos %}
 
-### Reprehenderit magni
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
+---
 
 ## Lifestyle
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Travel
+### Cooking
+
+Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
+
+{% videos %}
+
+{% video title="How to Design Your Perfect Meal Plan" href="https://youtu.be/sub5HSbHmqM" description="Learn how to design customised meal plans tailored to your needs." /%}
+
+{% video title="How to Make a Recipe from What You Have" href="https://youtu.be/MwSHDo-RUAs" description="Use what you have in your fridge and pantry and say goodbye to food waste." /%}
+
+{% /videos %}
+
+### Travel and Places
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur.
 

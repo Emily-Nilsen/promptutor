@@ -12,9 +12,9 @@ Discover the ultimate resource to unlock the full potential of AI language model
 
 {% quick-link title="Prompt categories" icon="theming" href="/" description="Explore a wide range of prompt categories, formulas and examples." /%}
 
-{% quick-link title="Videos" icon="tv" href="/docs/learn-with-videos" description="Watch short, practical videos showcasing popular prompt formulas and examples." /%}
+{% quick-link title="Videos" icon="tv" href="/docs/learn-with-videos" description="Watch short videos showcasing examples of prompt formulas and responses." /%}
 
-{% quick-link title="External resources" icon="presets" href="/" description="Discover additional helpful resources to further your understanding." /%}
+{% quick-link title="External resources" icon="presets" href="/" description="Discover additional helpful resources to further your AI understanding." /%}
 
 {% /quick-links %}
 

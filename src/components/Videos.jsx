@@ -5,7 +5,7 @@ import Link from 'next/link'
 
 export function Videos({ children }) {
   return (
-    <div className="not-prose my-12 grid grid-cols-1 gap-6 sm:grid-cols-2">
+    <div className="not-prose mb-12 grid grid-cols-1 gap-6 sm:grid-cols-2">
       {children}
     </div>
   )
