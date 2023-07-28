@@ -26,23 +26,63 @@ export const navigation = [
     title: 'Arts & Literature',
     links: [
       { title: 'Creative Writing', href: '/docs/creative-writing' },
-      { title: 'Visual Arts', href: '/docs/visual-arts' },
       { title: 'Literature', href: '/docs/literature' },
       { title: 'Music', href: '/docs/music' },
+      { title: 'Visual Arts', href: '/docs/visual-arts' },
     ],
   },
   {
     title: 'Education & Learning',
     links: [
+      { title: 'Assignment Help', href: '/docs/assignment-help' },
+      { title: 'History', href: '/docs/history' },
       { title: 'Learning Resources', href: '/docs/learning-resources' },
       { title: 'Science & Discovery', href: '/docs/science-and-discovery' },
-      { title: 'History', href: '/docs/history' },
-      { title: 'Study Techniques', href: '/docs/testing' },
-      { title: 'Assignment Help', href: '/docs/compile-time-caching' },
+      { title: 'Study Techniques', href: '/docs/study-techniques' },
       {
         title: 'Summarise Text',
-        href: '/docs/predictive-data-generation',
+        href: '/docs/summarise-text',
       },
+    ],
+  },
+  {
+    title: 'Entertainment',
+    links: [
+      { title: 'Applications', href: '/docs/applications' },
+      { title: 'Gadgets & Devices', href: '/docs/gadgets-and-devices' },
+      { title: 'Internet Trends', href: '/docs/internet-trends' },
+      { title: 'Jokes', href: '/docs/jokes' },
+      { title: 'Pick-Up Lines', href: '/docs/pick-up-lines' },
+      { title: 'Social Media', href: '/docs/social-media' },
+      { title: 'TV/Movies', href: '/docs/tv-movies' },
+      { title: 'Video Games', href: '/docs/video-games' },
+    ],
+  },
+  {
+    title: 'Health & Wellbeing',
+    links: [
+      { title: 'Diet', href: '/docs/diet' },
+      { title: 'Sports & Fitness', href: '/docs/sports-and-fitness' },
+    ],
+  },
+  {
+    title: 'Lifestyle',
+    links: [
+      {
+        title: 'Environment & Sustainability',
+        href: '/docs/environment-and-sustainability',
+      },
+      { title: 'Fashion & Beauty', href: '/docs/fashion-and-beauty' },
+      { title: 'Hobbies', href: '/docs/hobbies' },
+      {
+        title: 'Mental Health & Psychology',
+        href: '/docs/mental-health-and-psychology',
+      },
+      {
+        title: 'Spirituality & Mindfulness',
+        href: '/docs/spirituality-and-mindfulness',
+      },
+      { title: 'Travel & Places', href: '/docs/travel-and-places' },
     ],
   },
   {
@@ -64,27 +104,11 @@ export const navigation = [
     ],
   },
   {
-    title: 'Entertainment',
+    title: 'Social & Relationships',
     links: [
-      { title: 'How to contribute', href: '/docs/how-to-contribute' },
-      { title: 'Architecture guide', href: '/docs/architecture-guide' },
-      { title: 'Design principles', href: '/docs/design-principles' },
-    ],
-  },
-  {
-    title: 'Social Media',
-    links: [
-      { title: 'How to contribute', href: '/docs/how-to-contribute' },
-      { title: 'Architecture guide', href: '/docs/architecture-guide' },
-      { title: 'Design principles', href: '/docs/design-principles' },
-    ],
-  },
-  {
-    title: 'Lifestyle',
-    links: [
-      { title: 'How to contribute', href: '/docs/how-to-contribute' },
-      { title: 'Architecture guide', href: '/docs/architecture-guide' },
-      { title: 'Design principles', href: '/docs/design-principles' },
+      { title: 'Culture', href: '/docs/culture' },
+      { title: 'Parenting & Family', href: '/docs/parenting-and-family' },
+      { title: 'Relationships', href: '/docs/relationships' },
     ],
   },
 ]
