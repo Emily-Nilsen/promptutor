@@ -11,26 +11,24 @@ Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo ex
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Et pariatur ab quas
+### Reaching targets
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
 
 {% callout type="warning" title="Prompt formula" %}
-Given that [event], what legal action could I take?
+Can you provide step-by-step instructions on how to [subject], considering [context]?
 {% /callout %}
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-{% callout title="Example 1: Neighbour's Tree Encroachment" %}
-Given that my neighbour's tree branches constantly encroach on my property, what legal action could I take?
+{% callout title="Example 1" %}
+Can you provide step-by-step instructions on how to perform a perfect tennis serve, considering a beginner's level of experience?
 {% /callout %}
 
-{% callout title="Example 2: Faulty Product Injury" %}
-Given that I purchased a faulty product that caused injury, what legal action could I take against the manufacturer?
+{% callout title="Example 2" %}
+Can you provide step-by-step instructions on how to execute a proper deadlift, considering someone with lower back pain?
 {% /callout %}
 
-{% callout title="Example 3: Tenant Rights Enforcement" %}
-Given that my landlord consistently fails to address serious maintenance issues in my rental unit, what legal action could I take to enforce my tenant rights?
+{% callout title="Example 3" %}
+Can you provide step-by-step instructions on how to start a beginner's running program, considering someone who has been sedentary for a long time?
 {% /callout %}
 
 ### Natus aspernatur iste

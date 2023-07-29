@@ -16,10 +16,10 @@ export const navigation = [
     title: 'Introduction',
     links: [
       { title: 'Welcome to Promptutor', href: '/' },
-      { title: 'Getting started', href: '/docs/getting-started' },
-      { title: 'Prompt categories', href: '/docs/prompt-categories' },
-      { title: 'Learn with videos', href: '/docs/learn-with-videos' },
-      { title: 'External resources', href: '/docs/external-resources' },
+      { title: 'Getting Started', href: '/docs/getting-started' },
+      { title: 'Prompt Categories', href: '/docs/prompt-categories' },
+      { title: 'Learn with Videos', href: '/docs/learn-with-videos' },
+      { title: 'External Resources', href: '/docs/external-resources' },
     ],
   },
   {
@@ -101,6 +101,7 @@ export const navigation = [
       { title: 'Marketing', href: '/docs/marketing' },
 
       { title: 'Professional Writing', href: '/docs/professional-writing' },
+      { title: 'Translation', href: '/docs/translation' },
     ],
   },
   {

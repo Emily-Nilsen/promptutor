@@ -11,26 +11,24 @@ Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo ex
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Et pariatur ab quas
+### Summarise for a specific audience
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
 
 {% callout type="warning" title="Prompt formula" %}
-Given that [event], what legal action could I take?
+Could you deliver a concise summary of [title] in [number] words, taking into account the interests of [target audience]?
 {% /callout %}
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-{% callout title="Example 1: Neighbour's Tree Encroachment" %}
-Given that my neighbour's tree branches constantly encroach on my property, what legal action could I take?
+{% callout title="Example 1" %}
+Could you deliver a concise summary of "The Power of Mindfulness: Achieving Inner Peace and Mental Clarity" in 100 words, taking into account the interests of individuals seeking stress-relief and personal growth?
 {% /callout %}
 
-{% callout title="Example 2: Faulty Product Injury" %}
-Given that I purchased a faulty product that caused injury, what legal action could I take against the manufacturer?
+{% callout title="Example 2" %}
+Could you deliver a concise summary of "Investing in Cryptocurrencies: Understanding the Risks and Rewards" in 180 words, taking into account the interests of finance-savvy millennials and potential crypto investors?
 {% /callout %}
 
-{% callout title="Example 3: Tenant Rights Enforcement" %}
-Given that my landlord consistently fails to address serious maintenance issues in my rental unit, what legal action could I take to enforce my tenant rights?
+{% callout title="Example 3" %}
+Could you deliver a concise summary of "The History of Ancient Civilizations: Unraveling the Secrets of the Past" in 250 words, taking into account the interests of history buffs and archaeology enthusiasts?
 {% /callout %}
 
 ### Natus aspernatur iste

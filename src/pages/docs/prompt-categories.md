@@ -121,6 +121,8 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
 
 {% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/professional_writing_2_fcde0i.webp" title="Professional Writing" href="/docs/professional-writing" /%}
 
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/Translation_izjxzo.webp" title="Translation" href="/docs/translation" /%}
+
 {% /categories %}
 
 ### Social and Relationships

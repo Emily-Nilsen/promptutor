@@ -1,5 +1,5 @@
 ---
-title: Business
+title: Translation
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 
@@ -7,28 +7,28 @@ Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo ex
 
 ---
 
-## Generate Ideas
+## Translate Languages
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Generate Ideas
+### Translation in context
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
 
 {% callout type="warning" title="Prompt formula" %}
-Can you provide [number] ideas for a [format] about [subject] for [target audience], focusing on [topics], with [additional context]?
+Can you give a translation of the phrase "[phrase]" used during an [event] into [language]?
 {% /callout %}
 
 {% callout title="Example 1" %}
-Can you provide 4 ideas for a team-building workshop for corporate professionals, focusing on effective communication, conflict resolution, and fostering a positive work environment, with an emphasis on experiential learning activities?
+Can you give a translation of the phrase "Congratulations on your achievement!" used during a graduation ceremony into Spanish?
 {% /callout %}
 
 {% callout title="Example 2" %}
-Can you provide 3 ideas for an interactive infographic about renewable energy sources for elementary school students, focusing on solar, wind, and hydroelectric power, with an additional context of illustrating their environmental benefits?
+Can you give a translation of the phrase "Thank you for your hospitality" used during a formal dinner into Japanese.
 {% /callout %}
 
 {% callout title="Example 3" %}
-Can you provide 10 ideas for a podcast series about personal finance for young adults, focusing on budgeting, investing, and saving for major life goals, with an emphasis on real-life success stories from financially savvy individuals?
+Can you give a translation of the phrase "Good luck in your new job!" used during a farewell party into Mandarin?
 {% /callout %}
 
 ### Natus aspernatur iste
@@ -39,49 +39,21 @@ Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia d
 
 ---
 
-## Professional Development
+## Quos porro ut molestiae
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Enhance and achieve
+### Voluptatem quas possimus
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
 
-{% callout type="warning" title="Prompt formula" %}
-Could you share some recommendations on enhancing [subject] with the aim of achieving [objective]?
-{% /callout %}
+Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
 
-{% callout title="Example 1" %}
-Could you share some recommendations on enhancing public speaking abilities with the aim of achieving more impactful presentations?
-{% /callout %}
-
-{% callout title="Example 2" %}
-Could you share some recommendations on enhancing creativity and innovation within a company with the aim of achieving a competitive advantage in the market?
-{% /callout %}
-
-{% callout title="Example 3" %}
-Could you share some recommendations on enhancing customer service practices with the aim of achieving greater customer satisfaction?
-{% /callout %}
-
-### DIY skill proficiency
+### Id vitae minima
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
 
-{% callout type="warning" title="Prompt formula" %}
-How can one effectively learn or practice [specific skill] in practical ways, without the need for formal courses or community involvement?
-{% /callout %}
-
-{% callout title="Example 1" %}
-How can one effectively learn or practice basic programming skills in practical ways, without the need for formal courses or community involvement?
-{% /callout %}
-
-{% callout title="Example 2" %}
-How can one effectively learn or practice a new language in practical ways, without the need for formal courses or community involvement?
-{% /callout %}
-
-{% callout title="Example 3" %}
-How can one effectively learn or practice graphic design skills in practical ways, without the need for formal courses or community involvement?
-{% /callout %}
+Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
 
 ---
 

@@ -11,33 +11,29 @@ Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo ex
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Et pariatur ab quas
+### Interviewing a candidate
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
 
 {% callout type="warning" title="Prompt formula" %}
-Given that [event], what legal action could I take?
+Imagine you are in a high-level job interview for the position of [job title] at [name of company]. For this simulation, you will take on the role of the job applicant, while I, as the potential employer, will be asking a series of questions to assess your competence and qualifications. After you respond to each question, I will progressively introduce more challenging inquiries to evaluate your abilities thoroughly. Let's begin the interview! You may proceed by assuming the role of the applicant.
 {% /callout %}
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-{% callout title="Example 1: Neighbour's Tree Encroachment" %}
-Given that my neighbour's tree branches constantly encroach on my property, what legal action could I take?
+{% callout title="Example" %}
+Imagine you are in a high-level job interview for the position of Chief Technology Officer (CTO) at Innovative Tech Solutions Inc. For this simulation, you will take on the role of the job applicant, while I, as the potential employer, will be asking a series of questions to assess your competence and qualifications. After you respond to each question, I will progressively introduce more challenging inquiries to evaluate your abilities thoroughly. Let's begin the interview! You may proceed by assuming the role of the applicant.
 {% /callout %}
 
-{% callout title="Example 2: Faulty Product Injury" %}
-Given that I purchased a faulty product that caused injury, what legal action could I take against the manufacturer?
-{% /callout %}
-
-{% callout title="Example 3: Tenant Rights Enforcement" %}
-Given that my landlord consistently fails to address serious maintenance issues in my rental unit, what legal action could I take to enforce my tenant rights?
-{% /callout %}
-
-### Natus aspernatur iste
+### Job interview
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
 
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+{% callout type="warning" title="Prompt formula" %}
+Imagine you are in a high-level job interview for the position of [job title] at [name of company]. For this simulation, you will take on the role of the employer, while I, as the potential candidate, will receive a series of questions to assess my competence and qualifications. After I respond to each question, you will progressively introduce more challenging inquiries to evaluate my abilities thoroughly. Let's begin the interview! You may proceed by assuming the role of the interviewer.
+{% /callout %}
+
+{% callout title="Example" %}
+Imagine you are in a high-level job interview for the position of Senior Marketing Manager at Acme Corporation. For this simulation, you will take on the role of the employer, while I, as the potential candidate, will receive a series of questions to assess my competence and qualifications. After I respond to each question, you will progressively introduce more challenging inquiries to evaluate my abilities thoroughly. Let's begin the interview! You may proceed by assuming the role of the interviewer.
+{% /callout %}
 
 ---
 
