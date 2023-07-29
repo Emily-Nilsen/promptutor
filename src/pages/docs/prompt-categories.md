@@ -35,7 +35,7 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
 
 {% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/assignment_help_kktzc9.webp" title="Assignment Help" href="/docs/assignment-help" /%}
 
-{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/history_x6zc0r.webp" title="History" href="/docs/history" /%}
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/history_3_h5b6de.webp" title="History" href="/docs/history" /%}
 
 {% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/learning_resources_jonyco.webp" title="Learning Resources" href="/docs/learning-resources" /%}
 
@@ -53,7 +53,7 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
 
 {% categories %}
 
-{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/applications_mwpptr.webp" title="Applications" href="/docs/applications" /%}
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/applications_2_vhexs6.webp" title="Applications" href="/docs/applications" /%}
 
 {% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/gadgets_2_yuzb0v.webp" title="Gadgets & Devices" href="/docs/gadgets-and-devices" /%}
 
@@ -79,7 +79,7 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
 
 {% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/diet_uoooqg.webp" title="Diet" href="/docs/diet" /%}
 
-{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/exercise_bike_h0peyi.webp" title="Sports & Fitness" href="/docs/sports-and-fitness" /%}
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/sport_and_fitness_akyl9j.webp" title="Sports & Fitness" href="/docs/sports-and-fitness" /%}
 
 {% /categories %}
 
@@ -93,33 +93,33 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
 
 {% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/fashion_and_beauty_1_yq8rih.webp" title="Fashion & Beauty" href="/docs/legal" /%}
 
-{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/hobbies_h8bepo.webp" title="Hobbies" href="/docs/legal" /%}
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/hobbies_2_fr1rcs.webp" title="Hobbies" href="/docs/legal" /%}
 
 {% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/mental_health_q3th6z.webp" title="Mental Health & Psychology" href="/docs/legal" /%}
 
 {% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/spirituality_sakfmw.webp" title="Spirituality & Mindfulness" href="/docs/legal" /%}
 
-{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/travel_and_places_deuyvi.webp" title="Travel & Places" href="/docs/legal" /%}
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/travel_and_places_3_r8xtic.webp" title="Travel & Places" href="/docs/legal" /%}
 
 {% /categories %}
 
-### Professional Development
+### Professional
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
 
 {% categories %}
 
-{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/typewriter_ox0r0w.webp" title="Business" href="/docs/business" /%}
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/business_rwdycl.webp" title="Business" href="/docs/business" /%}
 
-{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/typewriter_ox0r0w.webp" title="E-mails" href="/docs/e-mails" /%}
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/e-mail_lvrpe9.webp" title="E-mails" href="/docs/e-mails" /%}
 
-{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/typewriter_ox0r0w.webp" title="Interviews" href="/docs/interviews" /%}
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/interviews_1_xgv0wg.webp" title="Interviews" href="/docs/interviews" /%}
 
 {% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/scales_tmkius.webp" title="Legal" href="/docs/legal" /%}
 
-{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/typewriter_ox0r0w.webp" title="Marketing" href="/docs/marketing" /%}
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/marketing_jasy5v.webp" title="Marketing" href="/docs/marketing" /%}
 
-{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/typewriter_ox0r0w.webp" title="Professional Writing" href="/docs/professional-writing" /%}
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/professional_writing_yhvu4e.webp" title="Professional Writing" href="/docs/professional-writing" /%}
 
 {% /categories %}
 
@@ -129,10 +129,10 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
 
 {% categories %}
 
-{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/typewriter_ox0r0w.webp" title="Culture" href="/docs/legal" /%}
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/cultures_3_vdftli.webp" title="Culture" href="/docs/culture" /%}
 
-{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/exercise_bike_h0peyi.webp" title="Parenting & Family" href="/docs/legal" /%}
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/parenting_tzj9ib.webp" title="Parenting & Family" href="/docs/parenting-and-family" /%}
 
-{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/typewriter_ox0r0w.webp" title="Relationships" href="/docs/legal" /%}
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/relationships_k4w9d2.webp" title="Relationships" href="/docs/relationships" /%}
 
 {% /categories %}

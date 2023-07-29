@@ -86,7 +86,7 @@ export const navigation = [
     ],
   },
   {
-    title: 'Professional Development',
+    title: 'Professional',
     links: [
       {
         title: 'Business',
