@@ -88,10 +88,16 @@ export function Callout({ type = 'note', title, children }) {
                 Copied!
               </span>
             ) : (
-              <span className="flex items-center gap-1">
-                <CopyIcon className="h-4 w-4 fill-gray-400 dark:fill-gray-300" />
-                Copy prompt
-              </span>
+              <>
+                <span className="flex items-center gap-1 sm:hidden">
+                  <CopyIcon className="h-4 w-4 fill-gray-400 dark:fill-gray-300" />
+                  Copy
+                </span>
+                <span className="hidden items-center gap-1 sm:flex">
+                  <CopyIcon className="h-4 w-4 fill-gray-400 dark:fill-gray-300" />
+                  Copy prompt
+                </span>
+              </>
             )}
           </button>
         </div>

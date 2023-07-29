@@ -35,7 +35,7 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
 
 {% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/assignment_help_kktzc9.webp" title="Assignment Help" href="/docs/assignment-help" /%}
 
-{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/history_4_nj1hbl.webp" title="History" href="/docs/history" /%}
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/history_scene_j6xen2.webp" title="History" href="/docs/history" /%}
 
 {% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/learning_resources_jonyco.webp" title="Learning Resources" href="/docs/learning-resources" /%}
 
@@ -57,7 +57,7 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
 
 {% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/gadgets_2_yuzb0v.webp" title="Gadgets & Devices" href="/docs/gadgets-and-devices" /%}
 
-{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/internet_trends_z2aolq.webp" title="Internet Trends" href="/docs/internet-trends" /%}
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/internet_trends_wa2w1c.webp" title="Internet Trends" href="/docs/internet-trends" /%}
 
 {% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/jokes_ykxy8o.webp" title="Jokes" href="/docs/jokes" /%}
 
