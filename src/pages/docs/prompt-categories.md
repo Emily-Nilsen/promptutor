@@ -35,7 +35,7 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
 
 {% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/assignment_help_kktzc9.webp" title="Assignment Help" href="/docs/assignment-help" /%}
 
-{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/History_battle_mbi0sa.png" title="History" href="/docs/history" /%}
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/history_yopvpn.webp" title="History" href="/docs/history" /%}
 
 {% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/learning_resources_jonyco.webp" title="Learning Resources" href="/docs/learning-resources" /%}
 

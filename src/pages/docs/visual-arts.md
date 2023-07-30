@@ -7,30 +7,28 @@ Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo ex
 
 ---
 
-## Visual Arts
+## Video Scripts
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Et pariatur ab quas
+### Persuasive topic exploration
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Use this formula to develop a captivating video script that focuses on a thought-provoking subject, aiming to achieve a specific goal while considering the relevant context.
 
 {% callout type="warning" title="Prompt formula" %}
-Given that [event], what legal action could I take?
+Craft a compelling video script with the aim of [goal], delving into the intriguing topic of [subject] while considering [additional context].
 {% /callout %}
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-{% callout title="Example 1: Neighbour's Tree Encroachment" %}
-Given that my neighbour's tree branches constantly encroach on my property, what legal action could I take?
+{% callout title="Example 1" %}
+Craft a compelling video script with the aim of educating viewers about sustainable gardening practices, delving into the intriguing topic of permaculture while considering its impact on biodiversity and soil health.
 {% /callout %}
 
-{% callout title="Example 2: Faulty Product Injury" %}
-Given that I purchased a faulty product that caused injury, what legal action could I take against the manufacturer?
+{% callout title="Example 2" %}
+Craft a compelling video script with the aim of inspiring creativity, delving into the intriguing topic of street art while considering its historical significance and evolving role in contemporary urban culture.
 {% /callout %}
 
-{% callout title="Example 3: Tenant Rights Enforcement" %}
-Given that my landlord consistently fails to address serious maintenance issues in my rental unit, what legal action could I take to enforce my tenant rights?
+{% callout title="Example 3" %}
+Craft a compelling video script with the aim of entertaining and engaging audiences, delving into the intriguing topic of urban legends and folklore while considering their cultural significance and enduring popularity.
 {% /callout %}
 
 ### Natus aspernatur iste

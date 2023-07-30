@@ -7,29 +7,27 @@ Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo ex
 
 ---
 
-## Social Media
+## Profiles
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Et pariatur ab quas
+### Strategically captivating profile
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Craft a captivating profile with appealing language and tone, drawing the curiosity of potential followers on social media.
 
 {% callout type="warning" title="Prompt formula" %}
-Given that [event], what legal action could I take?
+Compose a captivating [type of profile] showcasing [subject]'s unique [interests/personality], strategically designed to allure your desired [audience]. Employ the appropriate language and tone to create an appealing and relatable social media profile that piques the curiosity of potential followers.
 {% /callout %}
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-{% callout title="Example 1: Neighbour's Tree Encroachment" %}
+{% callout title="Example 1" %}
 Given that my neighbour's tree branches constantly encroach on my property, what legal action could I take?
 {% /callout %}
 
-{% callout title="Example 2: Faulty Product Injury" %}
+{% callout title="Example 2" %}
 Given that I purchased a faulty product that caused injury, what legal action could I take against the manufacturer?
 {% /callout %}
 
-{% callout title="Example 3: Tenant Rights Enforcement" %}
+{% callout title="Example 3" %}
 Given that my landlord consistently fails to address serious maintenance issues in my rental unit, what legal action could I take to enforce my tenant rights?
 {% /callout %}
 
@@ -41,15 +39,29 @@ Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia d
 
 ---
 
-## Quos porro ut molestiae
+## Captions
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Voluptatem quas possimus
+### Impactful subject captions
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Develop empowering captions that resonate with your target audience for this media featuring your subject, igniting interest and interaction.
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+{% callout type="warning" title="Prompt formula" %}
+Could you devise [adjective] captions suitable for [target audience] to accompany this [media] featuring [subject]?
+{% /callout %}
+
+{% callout title="Example 1" %}
+Could you devise humorous captions suitable for teenagers to accompany this TikTok featuring adorable puppies?
+{% /callout %}
+
+{% callout title="Example 2" %}
+Could you devise inspirational captions suitable for fitness enthusiasts to accompany this Instagram post featuring a powerful workout routine?
+{% /callout %}
+
+{% callout title="Example 3" %}
+Could you devise engaging captions suitable for foodies to accompany this blog post featuring mouthwatering recipes.
+{% /callout %}
 
 ### Id vitae minima
 

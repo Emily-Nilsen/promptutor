@@ -11,26 +11,24 @@ Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo ex
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Short Stories
+### Improve writing skills
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Design a writing exercise tailored to the skill level of writers. Incorporating a specific task and emphasizing the refinement of a particular aspect of writing helps writers enhance their abilities in a targeted manner.
 
 {% callout type="warning" title="Prompt formula" %}
-Given that [event], what legal action could I take?
+Create an enriching [writing technique] exercise tailored for [skill level] writers, incorporating [specific task] to enhance their abilities. The exercise should emphasise refining [aspect of writing] to foster noticeable improvements in their craft.
 {% /callout %}
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-{% callout title="Example 1: Neighbour's Tree Encroachment" %}
-Given that my neighbour's tree branches constantly encroach on my property, what legal action could I take?
+{% callout title="Example 1" %}
+Create an enriching character development exercise tailored for intermediate writers, incorporating a dialogue-writing task to enhance their abilities. The exercise should emphasise refining emotional expression to foster noticeable improvements in their craft.
 {% /callout %}
 
-{% callout title="Example 2: Faulty Product Injury" %}
-Given that I purchased a faulty product that caused injury, what legal action could I take against the manufacturer?
+{% callout title="Example 2" %}
+Design an enriching descriptive language exercise tailored for advanced writers, incorporating a setting visualisation task to enhance their abilities. The exercise should emphasise refining sensory imagery to foster noticeable improvements in their craft.
 {% /callout %}
 
-{% callout title="Example 3: Tenant Rights Enforcement" %}
-Given that my landlord consistently fails to address serious maintenance issues in my rental unit, what legal action could I take to enforce my tenant rights?
+{% callout title="Example 3" %}
+Develop an enriching plot-building exercise tailored for beginner writers, incorporating a conflict-creation task to enhance their abilities. The exercise should emphasise refining story structure to foster noticeable improvements in their craft.
 {% /callout %}
 
 ### Natus aspernatur iste
@@ -41,11 +39,11 @@ Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia d
 
 ---
 
-## Quos porro ut molestiae
+## Fiction
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Voluptatem quas possimus
+### Short stories
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
 

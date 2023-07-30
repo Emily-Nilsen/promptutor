@@ -7,30 +7,28 @@ Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo ex
 
 ---
 
-## Culture
+## Favouritism in Society
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Et pariatur ab quas
+### Preferred traits and societal biases
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Explore prevailing societal beliefs and assess the preferential treatment of specific characteristics over others, unveiling underlying biases and norms.
 
 {% callout type="warning" title="Prompt formula" %}
-Given that [event], what legal action could I take?
+In the context of [society/culture], is there a prevailing notion that being [characteristic] is more favourable than being [characteristic]?
 {% /callout %}
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-{% callout title="Example 1: Neighbour's Tree Encroachment" %}
-Given that my neighbour's tree branches constantly encroach on my property, what legal action could I take?
+{% callout title="Example 1" %}
+In the context of modern Western society, is there a prevailing notion that being extroverted is more favourable than being introverted?
 {% /callout %}
 
-{% callout title="Example 2: Faulty Product Injury" %}
-Given that I purchased a faulty product that caused injury, what legal action could I take against the manufacturer?
+{% callout title="Example 2" %}
+In the context of academic circles, is there a prevailing notion that being intelligent is more favourable than being hardworking?
 {% /callout %}
 
-{% callout title="Example 3: Tenant Rights Enforcement" %}
-Given that my landlord consistently fails to address serious maintenance issues in my rental unit, what legal action could I take to enforce my tenant rights?
+{% callout title="Example 3" %}
+In the context of professional sports, is there a prevailing notion that being competitive is more favourable than being a team player?
 {% /callout %}
 
 ### Natus aspernatur iste

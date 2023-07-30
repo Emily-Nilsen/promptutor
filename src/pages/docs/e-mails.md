@@ -7,16 +7,16 @@ Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo ex
 
 ---
 
-## E-mails
+## Emails
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### E-mail response
+### Professional email response
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Embrace your responsibilities within a renowned organization celebrated for its exceptional qualities. Respond adeptly to the specified scenario, showcasing your professionalism.
 
 {% callout type="warning" title="Prompt formula" %}
-Assume the position of [your role] within a [type] company known for its [characteristic]. In this context, address the following [scenario].
+Assume the position of [your role] within a [type] company known for its [characteristic]. Write an email response addressing the following [scenario] in this context.
 {% /callout %}
 
 {% callout title="Example 1" %}
@@ -31,11 +31,25 @@ Assume the position of HR Director within a multinational company known for its 
 Assume the position of Lead Engineer within an eco-friendly company known for its sustainable practices. In this context, address the following scenario: Design an energy-efficient and environmentally friendly solution for a common household product, taking into consideration the entire lifecycle of the product.
 {% /callout %}
 
-### Natus aspernatur iste
+### Compelling email subject lines
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Craft an engaging subject line for your emails to captivate the target audience. Utilize a style of language that grabs attention and encourages recipients to open and read the content.
 
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+{% callout type="warning" title="Prompt formula" %}
+Create a captivating email subject line for [type of email] tailored to engage [target audience]. Employ [style] language to craft a compelling and attention-grabbing subject line that encourages recipients to open and read the emails.
+{% /callout %}
+
+{% callout title="Example 1" %}
+Create a captivating email subject line for a summer sale announcement tailored to engage fashion enthusiasts. Employ vibrant language to craft a compelling and attention-grabbing subject line that encourages recipients to open and read the emails.
+{% /callout %}
+
+{% callout title="Example 2" %}
+Design a captivating email subject line for a fundraising campaign tailored to engage philanthropic donors. Employ emotive language to craft a compelling and attention-grabbing subject line that encourages recipients to open and read the emails.
+{% /callout %}
+
+{% callout title="Example 3" %}
+Write a captivating email subject line for a survey request tailored to engage loyal customers. Employ personalized language to craft a compelling and attention-grabbing subject line that encourages recipients to open and read the emails.
+{% /callout %}
 
 ---
 

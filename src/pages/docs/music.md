@@ -7,30 +7,28 @@ Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo ex
 
 ---
 
-## Music
+## Writing Songs
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Et pariatur ab quas
+### Subject-driven lyrical enhancement
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Craft a powerful song by starting with a specific subject and adding extra details to enhance the lyrical content, using this formula for maximum impact.
 
 {% callout type="warning" title="Prompt formula" %}
-Given that [event], what legal action could I take?
+Can you create an engaging [type of song] centred around [subject], incorporating [additional details] to enrich the lyrical content?
 {% /callout %}
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-{% callout title="Example 1: Neighbour's Tree Encroachment" %}
-Given that my neighbour's tree branches constantly encroach on my property, what legal action could I take?
+{% callout title="Example 1" %}
+Can you create an engaging hip-hop track centered around social justice issues, incorporating thought-provoking statistics and impactful storytelling to enrich the lyrical content?
 {% /callout %}
 
-{% callout title="Example 2: Faulty Product Injury" %}
-Given that I purchased a faulty product that caused injury, what legal action could I take against the manufacturer?
+{% callout title="Example 2" %}
+Can you create an engaging country song centered around small-town life, incorporating tales of hard work on the farm and tight-knit community bonds to enrich the lyrical content?
 {% /callout %}
 
-{% callout title="Example 3: Tenant Rights Enforcement" %}
-Given that my landlord consistently fails to address serious maintenance issues in my rental unit, what legal action could I take to enforce my tenant rights?
+{% callout title="Example 3" %}
+Can you create an engaging electronic dance track centered around a futuristic dystopian world, incorporating elements of technological chaos and human survival to enrich the lyrical content?
 {% /callout %}
 
 ### Natus aspernatur iste

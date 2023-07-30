@@ -7,30 +7,28 @@ Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo ex
 
 ---
 
-## Relationships
+## Counselling Advice
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Et pariatur ab quas
+### Rebuilding relationship trust: Strategies for resolving challenges
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+This formula assists users in examining and addressing significant obstacles in a couple's relationship. It provides guidance in devising practical strategies to enhance communication, resolve issues, and rebuild trust, all while considering the roles and responsibilities of each individual involved.
 
 {% callout type="warning" title="Prompt formula" %}
-Given that [event], what legal action could I take?
+In relation to [scenario], a couple faces significant relationship challenges. Consider the partners' dynamics, the issues causing friction, and the emotional impact on both individuals. Develop a comprehensive plan outlining practical strategies for resolving the problems, fostering better communication, and rebuilding trust between the partners. Be sure to address the roles and responsibilities of each person in the relationship as part of your solution.
 {% /callout %}
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-{% callout title="Example 1: Neighbour's Tree Encroachment" %}
-Given that my neighbour's tree branches constantly encroach on my property, what legal action could I take?
+{% callout title="Example 1" %}
+In relation to a long-distance relationship, a couple faces significant relationship challenges. Consider the partners' dynamics, the issues causing friction, and the emotional impact on both individuals. Develop a comprehensive plan outlining practical strategies for resolving the problems, fostering better communication, and rebuilding trust between the partners. Be sure to address the roles and responsibilities of each person in the relationship as part of your solution.
 {% /callout %}
 
-{% callout title="Example 2: Faulty Product Injury" %}
-Given that I purchased a faulty product that caused injury, what legal action could I take against the manufacturer?
+{% callout title="Example 2" %}
+In relation to cultural differences, a couple faces significant relationship challenges. Consider the partners' dynamics, the issues causing friction, and the emotional impact on both individuals. Develop a comprehensive plan outlining practical strategies for resolving the problems, fostering better communication, and rebuilding trust between the partners. Be sure to address the roles and responsibilities of each person in the relationship as part of your solution.
 {% /callout %}
 
-{% callout title="Example 3: Tenant Rights Enforcement" %}
-Given that my landlord consistently fails to address serious maintenance issues in my rental unit, what legal action could I take to enforce my tenant rights?
+{% callout title="Example 3" %}
+In relation to financial struggles, a couple faces significant relationship challenges. Consider the partners' dynamics, the issues causing friction, and the emotional impact on both individuals. Develop a comprehensive plan outlining practical strategies for resolving the problems, fostering better communication, and rebuilding trust between the partners. Be sure to address the roles and responsibilities of each person in the relationship as part of your solution.
 {% /callout %}
 
 ### Natus aspernatur iste
