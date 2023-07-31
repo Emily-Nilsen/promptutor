@@ -7,48 +7,48 @@ Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo ex
 
 ---
 
-## Emails
+## Professional Email Responses
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Professional email response
+### Role-context scenario
 
-Embrace your responsibilities within a renowned organization celebrated for its exceptional qualities. Respond adeptly to the specified scenario, showcasing your professionalism.
+Helps users write email responses in a specific professional context by assuming a defined role within a company known for particular characteristics and addressing a given scenario accordingly.
 
 {% callout type="warning" title="Prompt formula" %}
-Assume the position of [your role] within a [type] company known for its [characteristic]. Write an email response addressing the following [scenario] in this context.
+Assume the position of [your role] within a [type] company known for its [characteristic]. Write an email response addressing the following scenario in this context: [scenario].
 {% /callout %}
 
 {% callout title="Example 1" %}
-Assume the position of Marketing Manager within a technology company known for its innovative products. In this context, address the following scenario: Propose a cutting-edge digital marketing campaign to launch the company's latest product and target a younger demographic.
+Assume the position of Marketing Manager within a tech startup known for its innovative products. Write an email response addressing the following scenario in this context: The marketing team wants to launch a new product campaign, and they need your input on the most effective marketing channels to reach the target audience.
 {% /callout %}
 
 {% callout title="Example 2" %}
-Assume the position of HR Director within a multinational company known for its diverse workforce. In this context, address the following scenario: Develop a comprehensive strategy to promote diversity and inclusion at all levels of the organization, and present it to the executive board for approval.
+Assume the position of Operations Supervisor within a logistics company known for its efficient supply chain management. Write an email response addressing the following scenario in this context: The warehouse team is experiencing delays in processing orders, and the head of operations is seeking your recommendations to improve order fulfillment speed.
 {% /callout %}
 
 {% callout title="Example 3" %}
-Assume the position of Lead Engineer within an eco-friendly company known for its sustainable practices. In this context, address the following scenario: Design an energy-efficient and environmentally friendly solution for a common household product, taking into consideration the entire lifecycle of the product.
+Assume the position of Financial Analyst within a global finance company known for its data-driven investment strategies. Write an email response addressing the following scenario in this context: The investment team is considering entering a new market, and they need your financial analysis on the potential risks and returns of this venture.
 {% /callout %}
 
-### Compelling email subject lines
+### Tailored subject lines
 
-Craft an engaging subject line for your emails to captivate the target audience. Utilize a style of language that grabs attention and encourages recipients to open and read the content.
+Craft compelling email subject lines that are tailored to engage specific target audiences. Use a particular language style to create attention-grabbing subject lines that encourage recipients to open and read your emails.
 
 {% callout type="warning" title="Prompt formula" %}
-Create a captivating email subject line for [type of email] tailored to engage [target audience]. Employ [style] language to craft a compelling and attention-grabbing subject line that encourages recipients to open and read the emails.
+Create a captivating email subject line for [type of email] tailored to engage [target audience]. Employ [style] language to craft a compelling, attention-grabbing subject line that encourages recipients to open and read emails.
 {% /callout %}
 
 {% callout title="Example 1" %}
-Create a captivating email subject line for a summer sale announcement tailored to engage fashion enthusiasts. Employ vibrant language to craft a compelling and attention-grabbing subject line that encourages recipients to open and read the emails.
+Create a captivating email subject line for your exclusive sale event tailored to engage fashion-forward shoppers. Employ playful language to craft a compelling, attention-grabbing subject line that encourages recipients to open and read emails.
 {% /callout %}
 
 {% callout title="Example 2" %}
-Design a captivating email subject line for a fundraising campaign tailored to engage philanthropic donors. Employ emotive language to craft a compelling and attention-grabbing subject line that encourages recipients to open and read the emails.
+Create a captivating email subject line for your webinar invitation tailored to engage small business owners. Employ persuasive language to craft a compelling, attention-grabbing subject line that encourages recipients to open and read emails.
 {% /callout %}
 
 {% callout title="Example 3" %}
-Write a captivating email subject line for a survey request tailored to engage loyal customers. Employ personalized language to craft a compelling and attention-grabbing subject line that encourages recipients to open and read the emails.
+Create a captivating email subject line for your health and wellness tips tailored to engage fitness enthusiasts. Employ motivational language to craft a compelling, attention-grabbing subject line that encourages recipients to open and read emails.
 {% /callout %}
 
 ---
