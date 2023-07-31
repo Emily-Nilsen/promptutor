@@ -11,9 +11,9 @@ Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo ex
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Summarise for a specific audience
+### Quick audience insight
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Generate succinct summaries that encompass the main ideas while considering the interests of a specific target audience, all within a limited word count.
 
 {% callout type="warning" title="Prompt formula" %}
 Could you deliver a concise summary of [title] in [number] words, taking into account the interests of [target audience]?

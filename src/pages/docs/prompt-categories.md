@@ -81,6 +81,8 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
 
 {% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/sport_and_fitness_akyl9j.webp" title="Sports & Fitness" href="/docs/sports-and-fitness" /%}
 
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/sport_and_fitness_akyl9j.webp" title="Wellbeing" href="/docs/wellbeing" /%}
+
 {% /categories %}
 
 ### Lifestyle

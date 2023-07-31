@@ -63,6 +63,7 @@ export const navigation = [
     links: [
       { title: 'Diet', href: '/docs/diet' },
       { title: 'Sports & Fitness', href: '/docs/sports-and-fitness' },
+      { title: 'Wellbeing', href: '/docs/wellbeing' },
     ],
   },
   {

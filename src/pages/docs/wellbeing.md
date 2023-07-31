@@ -1,5 +1,5 @@
 ---
-title: Diet
+title: Wellbeing
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 
@@ -7,40 +7,16 @@ Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo ex
 
 ---
 
-## Healthy Eating
+## Wellbeing
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Optimize health habits
+### Prioritizing self-care
 
-Discover evidence-based strategies and practical tips for enhancing well-being through personalized dietary improvements. Achieve health goals with sustainable guidance and informative suggestions tailored to your preferences and restrictions, empowering a healthier lifestyle.
+This prompt helps users find strategies and actionable steps to maintain a healthy balance between responsibilities and self-care, promoting overall well-being in a busy life.
 
-{% callout type="warning" title="Prompt formula" %}
-Exploring dietary enhancements for optimizing my [health aspect] while adhering to [restriction/preference]:
-(1) Share valuable insights, practical tips, and evidence-based approaches to improve my well-being through dietary modifications.
-(2) Focus on strategies that align with my specific [restriction/preference] and offer guidance on making sustainable and effective changes to achieve the desired health goals.
-(3) Provide informative and well-explained suggestions to empower me toward a healthier lifestyle.
-{% /callout %}
-
-{% callout title="Example 1" %}
-Exploring dietary enhancements for optimizing my digestive health while adhering to a low FODMAP preference:
-(1) Share valuable insights, practical tips, and evidence-based approaches to improve my well-being through dietary modifications.
-(2) Focus on strategies that align with my low FODMAP preference and offer guidance on making sustainable and effective changes to achieve the desired health goals.
-(3) Provide informative and well-explained suggestions to empower me toward a healthier lifestyle.
-{% /callout %}
-
-{% callout title="Example 2" %}
-Exploring dietary enhancements for optimizing my immune health while adhering to a dairy-free restriction:
-(1) Share valuable insights, practical tips, and evidence-based approaches to improve my well-being through dietary modifications.
-(2) Focus on strategies that align with my dairy-free restriction and offer guidance on making sustainable and effective changes to achieve the desired health goals.
-(3) Provide informative and well-explained suggestions to empower me toward a healthier lifestyle.
-{% /callout %}
-
-{% callout title="Example 3" %}
-Exploring dietary enhancements for optimizing my bone health while adhering to a vegan preference:
-(1) Share valuable insights, practical tips, and evidence-based approaches to improve my well-being through dietary modifications.
-(2) Focus on strategies that align with my vegan preference and offer guidance on making sustainable and effective changes to achieve the desired health goals.
-(3) Provide informative and well-explained suggestions to empower me toward a healthier lifestyle.
+{% callout type="warning" title="Prompt" %}
+How can I achieve a healthy balance and prioritize self-care effectively while managing various responsibilities? Share strategies, tips, and insights that can assist in carving out time for self-care while fulfilling my commitments. Emphasize the importance of maintaining well-being alongside responsibilities and provide actionable steps to achieve this balance.
 {% /callout %}
 
 ### Natus aspernatur iste

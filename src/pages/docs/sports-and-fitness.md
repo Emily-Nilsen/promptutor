@@ -11,9 +11,9 @@ Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo ex
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Reaching targets
+### Exercise techniques
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Provides step-by-step instructions on specific exercise techniques, considering the user's context and any additional factors that may affect the effectiveness and safety of the exercises.
 
 {% callout type="warning" title="Prompt formula" %}
 Can you provide step-by-step instructions on how to [subject], considering [context]?

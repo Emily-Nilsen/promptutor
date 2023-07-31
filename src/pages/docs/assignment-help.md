@@ -11,7 +11,7 @@ Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo ex
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Tailored communication: Engage & inform
+### Targeted text composition
 
 Create tailored, engaging content for specific audiences in targeted locations, highlighting key benefits to captivate and inform readers with impactful communication.
 
@@ -45,7 +45,7 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut par
 
 ### In-depth viewpoints
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Explore a subject extensively by analyzing different perspectives and presenting solid arguments supporting and against it, fostering a comprehensive understanding and diverse discussion.
 
 {% callout type="warning" title="Prompt formula" %}
 Explore [subject] through a comprehensive analysis of various viewpoints, providing persuasive arguments in favour of and opposed to the topic. Presenting diverse perspectives will enrich the discussion and offer a well-rounded understanding of the subject matter.

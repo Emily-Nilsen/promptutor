@@ -11,9 +11,9 @@ Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo ex
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Rebuilding relationship trust: Strategies for resolving challenges
+### Resolving relationship challenges
 
-This formula assists users in examining and addressing significant obstacles in a couple's relationship. It provides guidance in devising practical strategies to enhance communication, resolve issues, and rebuild trust, all while considering the roles and responsibilities of each individual involved.
+Examine and tackle substantial relationship obstacles between partners in a particular situation, considering dynamics, sources of friction, and emotional ramifications. Formulate practical approaches to resolve issues, enhance communication, and restore trust.
 
 {% callout type="warning" title="Prompt formula" %}
 In relation to [scenario], a couple faces significant relationship challenges. Consider the partners' dynamics, the issues causing friction, and the emotional impact on both individuals. Develop a comprehensive plan outlining practical strategies for resolving the problems, fostering better communication, and rebuilding trust between the partners. Be sure to address the roles and responsibilities of each person in the relationship as part of your solution.
