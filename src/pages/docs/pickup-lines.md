@@ -1,5 +1,5 @@
 ---
-title: Pick-Up Lines
+title: Pickup Lines
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 
@@ -7,30 +7,28 @@ Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo ex
 
 ---
 
-## Pick-Up Lines
+## Flirts: AI-style
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+Are you trying to capture the heart of someone special? Can you create charming and witty AI-generated pickup lines to impress your person of interest? Unfortunately, no. Can you use the following formulas to craft cheesy, cringe-worthy pickup lines? Absolutely, yes!
 
-### Et pariatur ab quas
+### Unusual pickups
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Generate quirky and distinctive pickup lines fitting unusual styles and situations for fun.
 
 {% callout type="warning" title="Prompt formula" %}
-Given that [event], what legal action could I take?
+Can you create pickup lines as if you were a [uncommon style and situation]?
 {% /callout %}
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-{% callout title="Example 1: Neighbour's Tree Encroachment" %}
-Given that my neighbour's tree branches constantly encroach on my property, what legal action could I take?
+{% callout title="Example 1" %}
+Can you create pickup lines as if you were a time-travelling scientist from the 21st century attempting to woo someone from the 15th century?
 {% /callout %}
 
-{% callout title="Example 2: Faulty Product Injury" %}
-Given that I purchased a faulty product that caused injury, what legal action could I take against the manufacturer?
+{% callout title="Example 2" %}
+Can you create pickup lines as if you were a quirky space explorer trying to win the heart of an alien life form?
 {% /callout %}
 
-{% callout title="Example 3: Tenant Rights Enforcement" %}
-Given that my landlord consistently fails to address serious maintenance issues in my rental unit, what legal action could I take to enforce my tenant rights?
+{% callout title="Example 3" %}
+Can you create pickup lines as if you were a cybernetic android trying to connect with a human in a futuristic techno-club?
 {% /callout %}
 
 ### Natus aspernatur iste

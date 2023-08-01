@@ -52,7 +52,7 @@ export const navigation = [
       { title: 'Gadgets & Devices', href: '/docs/gadgets-and-devices' },
       { title: 'Internet Trends', href: '/docs/internet-trends' },
       { title: 'Jokes', href: '/docs/jokes' },
-      { title: 'Pick-Up Lines', href: '/docs/pick-up-lines' },
+      { title: 'Pickup Lines', href: '/docs/pickup-lines' },
       { title: 'Social Media', href: '/docs/social-media' },
       { title: 'TV/Movies', href: '/docs/tv-movies' },
       { title: 'Video Games', href: '/docs/video-games' },

@@ -31,7 +31,7 @@ Pretend you are a nutritionist, and develop 10 ideas for encouraging healthy eat
 Pretend you are a social media influencer, and develop 20 ideas for creating unique and shareable content on a specific niche topic. Compare these ideas and list the pros and cons of each idea.
 {% /callout %}
 
-### Natus aspernatur iste
+### Something here
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
 
@@ -39,11 +39,11 @@ Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia d
 
 ---
 
-## Curiosity & Creativity
+## Persuasive Writing
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Curiosity gaps
+### Curiosity gap
 
 Use this formula to craft attention-grabbing captions by incorporating a curiosity gap and discussing a specific topic, increasing user engagement.
 
@@ -71,18 +71,66 @@ Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia d
 
 ---
 
-## Vitae laborum maiores
+## Content Creation
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Corporis exercitationem
+### Audience-oriented content ideas
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Boost your content creation! Generate attention-grabbing ideas on your topic for inspiring articles. Perfect for bloggers, marketers, and writers seeking valuable insights for their audience.
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+{% callout type="warning" title="Prompt formula" %}
+Brainstorm [number] content ideas that would captivate [your target] audience while also providing them with valuable information on [topic].
+{% /callout %}
+
+{% callout title="Example 1" %}
+Brainstorm 8 content ideas that would captivate small business owners while also providing them with valuable information on digital marketing strategies.
+{% /callout %}
+
+{% callout title="Example 2" %}
+Brainstorm 15 content ideas that would captivate nature lovers and outdoor enthusiasts while also providing them with valuable information on sustainable travel destinations.
+{% /callout %}
+
+{% callout title="Example 3" %}
+Brainstorm 5 content ideas that would captivate fitness enthusiasts while also providing them with valuable information on effective home workout routines.
+{% /callout %}
 
 ### Reprehenderit magni
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
 
 Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+
+---
+
+## Website Content
+
+Capture the attention of your target audience and keep them engaged with a dynamic website that showcases the most important features of your product or service. Employ a methodical approach that incorporates a compelling hero section, easy-to-use navigation menu, persuasive call-to-action, and other essential components.
+
+### Website copy ideas
+
+Create an impressive website with a captivating hero section, easy navigation, persuasive call-to-action, and valuable product content to engage your audience.
+
+{% callout type="warning" title="Prompt formula" %}
+Craft compelling website content highlighting the specifications of [product/service], following this structure:
+
+(1) Hero Section
+
+(2) Navigation Menu
+
+(3) Call-to-Action (CTA)
+
+(4) Tagline/Slogan
+
+(5) H1 Heading
+
+(6) H2 and Subheadings
+
+(7) Paragraphs and Body Content
+
+(8) Bullet Points and Lists
+
+(9) Testimonials or Social Proof
+
+(10) Footer
+{% /callout %}

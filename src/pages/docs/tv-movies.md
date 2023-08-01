@@ -7,37 +7,49 @@ Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo ex
 
 ---
 
-## TV/Movies
+## Movie Match
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+Looking for fresh and exciting options to add to your weekend watchlist? Let us help you out!
 
-### Et pariatur ab quas
+### Top 10 film picks
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Get personalized movie recommendations! Provide a list of movies you enjoyed, and curate a list of 10 highly-rated films tailored just for you.
 
 {% callout type="warning" title="Prompt formula" %}
-Given that [event], what legal action could I take?
+Can you create a list of 10 [category] movie suggestions based on user ratings and the following list of movies I've liked: [list].
 {% /callout %}
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-{% callout title="Example 1: Neighbour's Tree Encroachment" %}
-Given that my neighbour's tree branches constantly encroach on my property, what legal action could I take?
+{% callout title="Example 1" %}
+Can you create a list of 10 sci-fi movie suggestions based on user ratings and the following list of movies I've liked: "Blade Runner 2049," "Inception," "The Matrix," "Interstellar," "Arrival," "Ex Machina," "The Martian," "Eternal Sunshine of the Spotless Mind," "Her," and "Avatar"?
 {% /callout %}
 
-{% callout title="Example 2: Faulty Product Injury" %}
-Given that I purchased a faulty product that caused injury, what legal action could I take against the manufacturer?
+{% callout title="Example 2" %}
+Can you create a list of 10 thriller movie suggestions based on user ratings and the following list of movies I've liked: "Se7en," "Gone Girl," "The Silence of the Lambs," "Memento," "Prisoners," "No Country for Old Men," "The Departed," "Shutter Island," "Zodiac," and "Fight Club"?
 {% /callout %}
 
-{% callout title="Example 3: Tenant Rights Enforcement" %}
-Given that my landlord consistently fails to address serious maintenance issues in my rental unit, what legal action could I take to enforce my tenant rights?
+{% callout title="Example 3" %}
+Can you create a list of 10 romantic comedy movie suggestions based on user ratings and the following list of movies I've liked: "Crazy Rich Asians," "When Harry Met Sally," "500 Days of Summer," "Love Actually," "The Big Sick," "Notting Hill," "Silver Linings Playbook," "Pretty Woman," "La La Land," and "Sleepless in Seattle"?
 {% /callout %}
 
-### Natus aspernatur iste
+### Under-the-radar recommendations
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Looking for some hidden gems in the world of TV and movies? Find personalised recommendations based on your recent favourites!
 
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+{% callout type="warning" title="Prompt formula" %}
+I've been hooked on [list of shows/movies] lately. Can you recommend some under-the-radar options with a similar vibe?
+{% /callout %}
+
+{% callout title="Example 1" %}
+I've been hooked on crime dramas like "Sherlock," "Mindhunter," and "Dexter" lately. Can you recommend some under-the-radar options with a similar vibe?
+{% /callout %}
+
+{% callout title="Example 2" %}
+I've been hooked on epic fantasy series like "Game of Thrones," "The Witcher," and "Lord of the Rings" lately. Can you recommend some under-the-radar options with a similar vibe?
+{% /callout %}
+
+{% callout title="Example 3" %}
+I've been hooked on historical dramas like "Vikings: Valhalla," "Queen Charlotte: A Bridgerton Story," and "The Law According to Lidia Poët" lately. Can you recommend some under-the-radar options with a similar vibe?
+{% /callout %}
 
 ---
 

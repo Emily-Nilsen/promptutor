@@ -1,10 +1,10 @@
 # Promptutor
 
-Welcome to Promptutor, a user-friendly and intuitive ChatGPT prompt search engine built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
+Welcome to Promptutor, a comprehensive ChatGPT prompt reference designed to help you save time and find the prompt you need, to significantly increase your everyday productivity. Promptutor is built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
 
 ## Introduction
 
-Promptutor.com aims to provide an easy and practical way to search for ChatGPT prompts by offering a prompt search interface based on natural language, exact terms and free-form expressions.
+Use Promptutor's search bar to easily find the prompt you're looking for. The prompt formulas and examples work in any AI language model, such as ChatGPT.
 
 ## Video Tutorials
 

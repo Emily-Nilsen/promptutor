@@ -61,7 +61,7 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat.
 
 {% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/jokes_ykxy8o.webp" title="Jokes" href="/docs/jokes" /%}
 
-{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/pickup_lines_udvose.webp" title="Pick-Up Lines" href="/docs/pick-up-lines" /%}
+{% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/pickup_lines_udvose.webp" title="Pick-Up Lines" href="/docs/pickup-lines" /%}
 
 {% category imageUrl="https://res.cloudinary.com/dt3k2apqd/image/upload/q_auto/Promptutor/social_media_2_zlcfce.webp" title="Social Media" href="/docs/social-media" /%}
 
