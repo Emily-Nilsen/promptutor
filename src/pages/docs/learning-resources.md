@@ -39,15 +39,29 @@ Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia d
 
 ---
 
-## Quos porro ut molestiae
+## Guide Me
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Voluptatem quas possimus
+### Step-by-step instructions
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+{% callout type="warning" title="Prompt formula" %}
+Create a step-by-step guide to instruct how to [topic].
+{% /callout %}
+
+{% callout title="Example 1" %}
+Create a step-by-step guide to instruct how to properly groom and care for a pet Labrador retriever.
+{% /callout %}
+
+{% callout title="Example 2" %}
+Create a step-by-step guide to instruct how to build a wooden bookshelf from scratch.
+{% /callout %}
+
+{% callout title="Example 3" %}
+Create a step-by-step guide to instruct how to set up and configure a home Wi-Fi network.
+{% /callout %}
 
 ### Id vitae minima
 

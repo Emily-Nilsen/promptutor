@@ -7,30 +7,28 @@ Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo ex
 
 ---
 
-## Study Techniques
+## Cross-Domain Fundamentals
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Et pariatur ab quas
+### Leveraging prior knowledge
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Guide yourself through the basics of a different subject by utilizing your existing understanding, allowing for a seamless knowledge transfer and empowering yourself to grasp new concepts effortlessly.
 
 {% callout type="warning" title="Prompt formula" %}
-Given that [event], what legal action could I take?
+I know a lot about [topic you know well]. Teach me the fundamentals of [new topic], using terminology and concepts from the previous topic I know much about.
 {% /callout %}
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-{% callout title="Example 1: Neighbour's Tree Encroachment" %}
-Given that my neighbour's tree branches constantly encroach on my property, what legal action could I take?
+{% callout title="Example 1" %}
+I know a lot about astronomy. Teach me the fundamentals of quantum mechanics, using terminology and concepts from astronomy.
 {% /callout %}
 
-{% callout title="Example 2: Faulty Product Injury" %}
-Given that I purchased a faulty product that caused injury, what legal action could I take against the manufacturer?
+{% callout title="Example 2" %}
+I know a lot about soccer. Teach me the fundamentals of basketball, using terminology and concepts from the world of soccer.
 {% /callout %}
 
-{% callout title="Example 3: Tenant Rights Enforcement" %}
-Given that my landlord consistently fails to address serious maintenance issues in my rental unit, what legal action could I take to enforce my tenant rights?
+{% callout title="Example 3" %}
+I know a lot about gardening. Teach me the fundamentals of photography, using terminology and concepts from gardening.
 {% /callout %}
 
 ### Natus aspernatur iste

@@ -71,15 +71,37 @@ Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia d
 
 ---
 
-## Vitae laborum maiores
+## Content Creation
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Corporis exercitationem
+### 7-Day interactive campaign
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Plan a week-long interactive social media campaign, crafting content that captivates your target audience, sparks their interest, and encourages active participation.
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+{% callout type="warning" title="Prompt formula" %}
+Create social media content for 7 days that is focused on [topic] and will engage [target audience].
+
+Instructions: Create social media content appropriate for the chosen topic and target audience. The range should be varied. Content should also include calls to action encouraging users to engage with the content, such as likes, shares, and comments.
+{% /callout %}
+
+{% callout title="Example 1" %}
+Create social media content for 7 days that is focused on DIY home improvement and will engage homeowners.
+
+Instructions: Create social media content appropriate for the chosen topic and target audience. The range should be varied. Content should also include calls to action encouraging users to engage with the content, such as likes, shares, and comments.
+{% /callout %}
+
+{% callout title="Example 2" %}
+Create social media content for 7 days that is focused on personal finance and will engage young professionals.
+
+Instructions: Create social media content appropriate for the chosen topic and target audience. The range should be varied. Content should also include calls to action encouraging users to engage with the content, such as likes, shares, and comments.
+{% /callout %}
+
+{% callout title="Example 3" %}
+Create social media content for 7 days that is focused on mindfulness and will engage individuals seeking stress relief.
+
+Instructions: Create social media content appropriate for the chosen topic and target audience. The range should be varied. Content should also include calls to action encouraging users to engage with the content, such as likes, shares, and comments.
+{% /callout %}
 
 ### Reprehenderit magni
 
