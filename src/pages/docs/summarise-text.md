@@ -39,15 +39,29 @@ Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia d
 
 ---
 
-## Quos porro ut molestiae
+## Latest News
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Voluptatem quas possimus
+### Stay updated effortlessly
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Asking for an update using the following formula is a quick and efficient way to stay in the loop. It allows you to get the latest information on a topic without searching for it yourself. Plus, it ensures you're up-to-date on the most recent developments in your area of interest.
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+{% callout type="warning" title="Prompt formula" %}
+Can you provide me with an update on [topic] over the past [timeframe]?
+{% /callout %}
+
+{% callout title="Example 1" %}
+Can you provide me with an update on the advancements in medical research over the past five years?
+{% /callout %}
+
+{% callout title="Example 2" %}
+Can you provide me with an update on the political situation in Hawaii over the past two years?
+{% /callout %}
+
+{% callout title="Example 3" %}
+Can you provide me with an update on the latest developments in artificial intelligence over the past six months?
+{% /callout %}
 
 ### Id vitae minima
 

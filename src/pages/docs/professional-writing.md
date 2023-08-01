@@ -7,6 +7,88 @@ Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo ex
 
 ---
 
+## Content Creation
+
+Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+
+### The secret ingredient for viral content
+
+Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+
+Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+
+### Audience-oriented content ideas
+
+Boost your content creation! Generate attention-grabbing ideas on your topic for inspiring articles. Perfect for bloggers, marketers, and writers seeking valuable insights for their audience.
+
+{% callout type="warning" title="Prompt formula" %}
+Brainstorm [number] content ideas that would captivate [your target] audience while also providing them with valuable information on [topic].
+{% /callout %}
+
+{% callout title="Example 1" %}
+Brainstorm 8 content ideas that would captivate small business owners while also providing them with valuable information on digital marketing strategies.
+{% /callout %}
+
+{% callout title="Example 2" %}
+Brainstorm 15 content ideas that would captivate nature lovers and outdoor enthusiasts while also providing them with valuable information on sustainable travel destinations.
+{% /callout %}
+
+{% callout title="Example 3" %}
+Brainstorm 5 content ideas that would captivate fitness enthusiasts while also providing them with valuable information on effective home workout routines.
+{% /callout %}
+
+---
+
+## Persuasive Writing
+
+Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+
+### Curiosity gap
+
+Have you ever been so absorbed in an article or video that you couldn't stop reading or watching? The author likely created a curiosity gap by leaving a space between what you know and what you want to discover.
+
+{% callout type="warning" title="Prompt formula" %}
+Write [number] [subject lines/headlines/social media threads/ad headlines/etc.] with a curiosity gap that discusses [topic].
+{% /callout %}
+
+{% callout title="Example 1" %}
+Write 5 social media threads with a curiosity gap that discusses the mysteries of black holes.
+{% /callout %}
+
+{% callout title="Example 2" %}
+Create 3 subject lines for emails with a curiosity gap that discusses the secrets of successful entrepreneurs.
+{% /callout %}
+
+{% callout title="Example 3" %}
+Generate 10 thought-provoking headlines for articles with a curiosity gap that delves into the psychology of decision-making.
+{% /callout %}
+
+### Something else here
+
+Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+
+Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+
+---
+
+## Professional Profiles
+
+Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur.
+
+### LinkedIn profile challenges
+
+Looking to gain insights into an individual's position and challenges? This prompt formula asks for a summary of a LinkedIn profile and identifies the top five challenges they may be facing. This can be a valuable tool for recruiters, managers, and professionals looking to understand the needs of their colleagues or potential hires.
+
+{% callout type="warning" title="Prompt formula" %}
+Provide a summary of the individual's LinkedIn profile: [LinkedIn profile url], and identify the top five challenges they are likely encountering in their current position.
+{% /callout %}
+
+{% callout title="Example" %}
+Write 5 social media threads with a curiosity gap that discusses the mysteries of black holes.
+{% /callout %}
+
+---
+
 ## Role-Based Idea Comparison
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
@@ -32,70 +114,6 @@ Pretend you are a social media influencer, and develop 20 ideas for creating uni
 {% /callout %}
 
 ### Something here
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
-
----
-
-## Persuasive Writing
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
-
-### Curiosity gap
-
-Use this formula to craft attention-grabbing captions by incorporating a curiosity gap and discussing a specific topic, increasing user engagement.
-
-{% callout type="warning" title="Prompt formula" %}
-Write [number] [subject lines/headlines/social media threads/ad headlines/etc.] with a curiosity gap that discusses [topic].
-{% /callout %}
-
-{% callout title="Example 1" %}
-Write 5 social media threads with a curiosity gap that discusses the mysteries of black holes.
-{% /callout %}
-
-{% callout title="Example 2" %}
-Create 3 subject lines for emails with a curiosity gap that discusses the secrets of successful entrepreneurs.
-{% /callout %}
-
-{% callout title="Example 3" %}
-Generate 10 thought-provoking headlines for articles with a curiosity gap that delves into the psychology of decision-making.
-{% /callout %}
-
-### Id vitae minima
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
-
----
-
-## Content Creation
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
-
-### Audience-oriented content ideas
-
-Boost your content creation! Generate attention-grabbing ideas on your topic for inspiring articles. Perfect for bloggers, marketers, and writers seeking valuable insights for their audience.
-
-{% callout type="warning" title="Prompt formula" %}
-Brainstorm [number] content ideas that would captivate [your target] audience while also providing them with valuable information on [topic].
-{% /callout %}
-
-{% callout title="Example 1" %}
-Brainstorm 8 content ideas that would captivate small business owners while also providing them with valuable information on digital marketing strategies.
-{% /callout %}
-
-{% callout title="Example 2" %}
-Brainstorm 15 content ideas that would captivate nature lovers and outdoor enthusiasts while also providing them with valuable information on sustainable travel destinations.
-{% /callout %}
-
-{% callout title="Example 3" %}
-Brainstorm 5 content ideas that would captivate fitness enthusiasts while also providing them with valuable information on effective home workout routines.
-{% /callout %}
-
-### Reprehenderit magni
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
 
@@ -133,4 +151,16 @@ Craft compelling website content highlighting the specifications of [product/ser
 (9) Testimonials or Social Proof
 
 (10) Footer
+{% /callout %}
+
+### Product features table
+
+Enter a URL in the following formula to generate a succinct table that highlights the product features, benefits, and problem-solving capabilities of the website you're interested in.
+
+{% callout type="warning" title="Prompt formula" %}
+Present the product's features, benefits, and problem-solving aspects in a concise tabular format. Access the comprehensive details on the product's feature page via the provided URL: [url / product page url].
+{% /callout %}
+
+{% callout title="Example" %}
+Present the product's features, benefits, and problem-solving aspects in a concise tabular format. Access the comprehensive details on the product's feature page via the provided URL: https://www.macworld.com/article/671090/new-apple-products.html.
 {% /callout %}

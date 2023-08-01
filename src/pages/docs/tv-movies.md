@@ -3,7 +3,7 @@ title: TV/Movies
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 
-Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo expedita ipsum nostrum corrupti incidunt. Et aut eligendi ea perferendis.
+MAKE SURE TO MENTION USING BARD OR SIMILAR FOR TV/MOVIES prompts!!!!!!!!!
 
 ---
 
@@ -40,11 +40,11 @@ I've been hooked on [list of shows/movies] lately. Can you recommend some under-
 {% /callout %}
 
 {% callout title="Example 1" %}
-I've been hooked on crime dramas like "Sherlock," "Mindhunter," and "Dexter" lately. Can you recommend some under-the-radar options with a similar vibe?
+I've been hooked on crime dramas like "True Detective," "Black Bird," and "Love & Death" lately. Can you recommend some under-the-radar options with a similar vibe?
 {% /callout %}
 
 {% callout title="Example 2" %}
-I've been hooked on epic fantasy series like "Game of Thrones," "The Witcher," and "Lord of the Rings" lately. Can you recommend some under-the-radar options with a similar vibe?
+I've been hooked on epic fantasy series like "Mayfair Witches," "Willow," and "House of the Dragon" lately. Can you recommend some under-the-radar options with a similar vibe?
 {% /callout %}
 
 {% callout title="Example 3" %}
