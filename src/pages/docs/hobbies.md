@@ -16,19 +16,19 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut par
 Ready to break free from the ordinary? Discover the ultimate formula that unveils exciting, unrelated activities – a treasure trove of hobbies you never knew you needed! Delve in and unleash your curiosity now.
 
 {% callout type="warning" title="Prompt formula" %}
-I enjoy [list a few interests or hobbies]. What are some entirely unrelated activities that I might find interesting?
+I enjoy [list a few interests or hobbies]. What are some entirely unrelated activities that I might find interesting and why?
 {% /callout %}
 
 {% callout title="Example 1" %}
-I enjoy painting and trying out new recipes in the kitchen. What are some entirely unrelated activities that I might find interesting?
+I enjoy painting and trying out new recipes in the kitchen. What are some entirely unrelated activities that I might find interesting and why?
 {% /callout %}
 
 {% callout title="Example 2" %}
-I enjoy gardening and playing board games with friends. What are some entirely unrelated activities that I might find interesting?
+I enjoy gardening and playing board games with friends. What are some entirely unrelated activities that I might find interesting and why?
 {% /callout %}
 
 {% callout title="Example 3" %}
-I enjoy dancing and learning new languages. What are some entirely unrelated activities that I might find interesting?
+I enjoy dancing and learning new languages. What are some entirely unrelated activities that I might find interesting and why?
 {% /callout %}
 
 ### Natus aspernatur iste

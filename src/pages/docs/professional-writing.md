@@ -39,6 +39,32 @@ Brainstorm 5 content ideas that would captivate fitness enthusiasts while also p
 
 ---
 
+## Customers and Clients
+
+Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur.
+
+### Customer complaints toolkit
+
+Learn how to handle objections effectively when selling, recruiting, or planning a vacation with this helpful formula.
+
+{% callout type="warning" title="Prompt formula" %}
+Provide me with a list of [number] common customer complaints related to [link to product/service] along with suggested responses to each issue.
+{% /callout %}
+
+{% callout title="Example 1" %}
+Provide me with a list of 5 common customer complaints related to https://www.amazon.com/ along with suggested responses to each issue.
+{% /callout %}
+
+{% callout title="Example 2" %}
+Provide me with a list of 3 common customer complaints related to https://www.apple.com/ along with suggested responses to each issue.
+{% /callout %}
+
+{% callout title="Example 3" %}
+Provide me with a list of 10 common customer complaints related to https://www.walmart.com/ along with suggested responses to each issue.
+{% /callout %}
+
+---
+
 ## Persuasive Writing
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
@@ -80,7 +106,7 @@ Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut par
 Looking to gain insights into an individual's position and challenges? This prompt formula asks for a summary of a LinkedIn profile and identifies the top five challenges they may be facing. This can be a valuable tool for recruiters, managers, and professionals looking to understand the needs of their colleagues or potential hires.
 
 {% callout type="warning" title="Prompt formula" %}
-Provide a summary of the individual's LinkedIn profile: [LinkedIn profile url], and identify the top five challenges they are likely encountering in their current position.
+Provide a summary of the individual's LinkedIn profile: [link to LinkedIn profile], and identify the top five challenges they are likely encountering in their current position.
 {% /callout %}
 
 {% callout title="Example" %}
@@ -158,7 +184,7 @@ Craft compelling website content highlighting the specifications of [product/ser
 Enter a URL in the following formula to generate a succinct table that highlights the product features, benefits, and problem-solving capabilities of the website you're interested in.
 
 {% callout type="warning" title="Prompt formula" %}
-Present the product's features, benefits, and problem-solving aspects in a concise tabular format. Access the comprehensive details on the product's feature page via the provided URL: [url / product page url].
+Present the product's features, benefits, and problem-solving aspects in a concise tabular format. Access the comprehensive details on the product's feature page via the provided URL: [link to product page].
 {% /callout %}
 
 {% callout title="Example" %}

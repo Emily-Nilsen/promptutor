@@ -7,11 +7,11 @@ Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo ex
 
 ---
 
-## Interviews
+## Interview Simulations
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Interviewer simulation: Assessing candidates
+### Assessing candidates as an employer
 
 Assume the role of an employer conducting interviews for a significant role. Interact with simulated job applicants, presenting challenging questions to gauge their suitability and qualifications and enhance your interview techniques.
 
@@ -37,15 +37,29 @@ Imagine you are in a high-level job interview for the position of Senior Marketi
 
 ---
 
-## Quos porro ut molestiae
+## Prepare Yourself
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
-### Voluptatem quas possimus
+### Anticipating employer objections for interview success
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+This prompt formula helps job seekers prepare for interviews by anticipating objections from the employer and crafting persuasive responses. It allows candidates to showcase their qualifications and increase their chances of getting the desired position.
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+{% callout type="warning" title="Prompt formula" %}
+As a [job title], you have the responsibility of assessing [link to LinkedIn profile] for a potential [open position]. Your task is to come up with [number] objections that you may have regarding this candidate and craft a compelling response to each complaint, ultimately convincing you to hire them.
+{% /callout %}
+
+{% callout title="Example 1" %}
+As a recruiter, you have the responsibility of assessing Jane Doe's LinkedIn profile for a potential software engineer position. Your task is to come up with 4 objections that you may have regarding this candidate and craft a compelling response to each complaint, ultimately convincing you to hire them.
+{% /callout %}
+
+{% callout title="Example 2" %}
+As a hiring manager, you have the responsibility of assessing John Smith's LinkedIn profile for a potential marketing manager position. Your task is to come up with 3 objections that you may have regarding this candidate and craft a compelling response to each complaint, ultimately convincing you to hire them.
+{% /callout %}
+
+{% callout title="Example 3" %}
+As a team lead, you have the responsibility of assessing David Brown's LinkedIn profile for a potential graphic designer position. Your task is to come up with 5 objections that you may have regarding this candidate and craft a compelling response to each complaint, ultimately convincing you to hire them.
+{% /callout %}
 
 ### Id vitae minima
 

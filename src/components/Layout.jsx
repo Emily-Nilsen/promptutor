@@ -277,6 +277,7 @@ export function Layout({ children, title, tableOfContents }) {
             )}
             <Prose>{children}</Prose>
           </article>
+
           <dl className="mt-12 flex border-t border-gray-200 pt-6 dark:border-gray-800">
             {previousPage && (
               <div>

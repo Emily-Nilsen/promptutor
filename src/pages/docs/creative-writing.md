@@ -69,7 +69,7 @@ Write an article about the cultural significance of traditional festivals around
 Write an article about the challenges and benefits of space exploration. Consider diverse perspectives and write it in an awe-inspiring tone.
 {% /callout %}
 
-### Id vitae minima
+### Id vitae minimisation
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
 
